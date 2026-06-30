@@ -2,21 +2,25 @@
 
 A plain Maven repository hosting the published artifacts of
 [**numen-api**](https://github.com/Dwinovo/numen-api) — a chat-capable
-Minecraft AI-companion engine (Fabric + NeoForge). Tool packs such as
-**numen-core** build on top of it.
+Minecraft AI-companion **engine** (Fabric + NeoForge). The engine is a pure
+scheduler: it runs your tool's `invoke(ToolCall)` and waits for `complete()` —
+how a tool does its work (server packets, threads, external calls) is entirely
+yours. Tool packs such as **numen-core** build on top of it.
 
-No authentication needed — it's served as raw files over HTTPS.
+No authentication needed — served as raw files over HTTPS.
+
+> **Current version is `0.0.1-SNAPSHOT`** (active development). A tagged release
+> version will follow once the API settles.
 
 ## Each version ships two artifacts per loader
 
-- **`…-api` (classifier `api`)** — a slim jar with only the public API surface
-  (the `@NumenAction` authoring annotations, the tool contract / registration,
-  the world-action task contract, and `NumenPlayer`). ~34 KB. Compile against
-  this: it's small and stable, and it physically can't see engine internals.
+- **`…:api` (classifier `api`)** — a slim jar with only the public API surface
+  (`NumenTool` / `ToolCall`, the `@NumenAction` authoring annotations +
+  `ToolSchema`, the task-result envelope, and `NumenPlayer`). Compile against
+  this; it's small, stable, and physically can't see engine internals.
 - **the full jar** — the whole engine. This is what actually runs.
 
-This is the same split Flywheel (`flywheel-…-api`), Create (`:slim`) and JEI
-(`…-api`) use.
+Same split Flywheel (`flywheel-…-api`), Create (`:slim`) and JEI (`…-api`) use.
 
 ## Depending on numen-api (writing a tool pack)
 
@@ -28,35 +32,34 @@ repositories {
 
 **Fabric (Loom):**
 ```gradle
+configurations.all { resolutionStrategy.cacheChangingModulesFor 0, 'seconds' }  // while it's a SNAPSHOT
+
 dependencies {
-    // compile against the slim, stable API only
-    modCompileOnlyApi 'com.dwinovo.numen:numen-api-fabric-1.21.1:0.0.2:api'
-    // the full engine at runtime (dev testing). To ship: `include(...)` it so
-    // your jar bundles the engine — players install one file (like Create+Flywheel).
-    modRuntimeOnly    'com.dwinovo.numen:numen-api-fabric-1.21.1:0.0.2'
+    modCompileOnlyApi 'com.dwinovo.numen:numen-api-fabric-1.21.1:0.0.1-SNAPSHOT:api'
+    modRuntimeOnly    'com.dwinovo.numen:numen-api-fabric-1.21.1:0.0.1-SNAPSHOT'
+    // to ship one file (like Create bundles Flywheel): also `include(...)` the full jar
 }
 ```
 
 **NeoForge (ModDevGradle):**
 ```gradle
 dependencies {
-    compileOnly 'com.dwinovo.numen:numen-api-neoforge-1.21.1:0.0.2:api'
-    runtimeOnly 'com.dwinovo.numen:numen-api-neoforge-1.21.1:0.0.2'
+    compileOnly 'com.dwinovo.numen:numen-api-neoforge-1.21.1:0.0.1-SNAPSHOT:api'
+    runtimeOnly 'com.dwinovo.numen:numen-api-neoforge-1.21.1:0.0.1-SNAPSHOT'
     // to ship one file: jarJar(implementation(...)) the full jar
 }
 ```
 
 The Minecraft version is baked into the artifactId (`numen-api-<loader>-<mcversion>`);
-the trailing coordinate (`0.0.2`) is the engine's own version. The `:api` is the
-classifier selecting the slim jar.
+`0.0.1-SNAPSHOT` is the engine's own version. The `:api` classifier selects the slim jar.
 
-> The full engine **must** be present at runtime (the slim `:api` jar only has
-> interfaces — a mod compiled against it alone won't run). Either `include`/`jarJar`
-> it into your pack, or declare numen_api as a required dependency players install.
+> The full engine **must** be present at runtime (the slim `:api` jar is interfaces
+> only). Either `include`/`jarJar` it into your pack, or require numen_api as a
+> dependency players install.
 
 ## Publishing (maintainers)
 
 ```
-cd numen-api && ./gradlew publish    # writes the full + :api jars into this repo's working tree
+cd numen-api && ./gradlew publish    # writes the full + :api jars (timestamped SNAPSHOT) here
 cd ../numen-maven && git add -A && git commit -m "publish …" && git push
 ```
