@@ -28,11 +28,11 @@
         {
           "name": "numen-api-neoforge-1.21.1-0.0.2.jar",
           "url": "numen-api-neoforge-1.21.1-0.0.2.jar",
-          "size": 579220,
-          "sha512": "2bc9711b9766977c6f6255187f2c1042b534a6cd110b1644f5b0233a0079f8ca5215df7292426754431a1a1d69d20b93f42e9a8b2dc1b011239d767a4ea43f62",
-          "sha256": "f60c46e2dfea33312561713befe03a8edbd792e3514ce54a58e64be761a666ac",
-          "sha1": "83e99a24c47177ebae600d2038f72aab8fe42ed7",
-          "md5": "8555023d674ec9af5faa485e2c23a70f"
+          "size": 585415,
+          "sha512": "f97bcfa91cd245442b4e04d5396920bb63cb80c69a98d779c46175b210738315b4fe8ed6faeafe1f234fa123e579fd2163577727fe43bb8917bef0a688075eb7",
+          "sha256": "56e203317ed1742325331ef86e77df46e3dbd8c3104099846480076a81c71e8a",
+          "sha1": "9b328829c4d999afb7cc394391e2df1f9acc0aee",
+          "md5": "e4ee23915e42d13d517f3bca238df306"
         }
       ]
     },
@@ -50,11 +50,11 @@
         {
           "name": "numen-api-neoforge-1.21.1-0.0.2.jar",
           "url": "numen-api-neoforge-1.21.1-0.0.2.jar",
-          "size": 579220,
-          "sha512": "2bc9711b9766977c6f6255187f2c1042b534a6cd110b1644f5b0233a0079f8ca5215df7292426754431a1a1d69d20b93f42e9a8b2dc1b011239d767a4ea43f62",
-          "sha256": "f60c46e2dfea33312561713befe03a8edbd792e3514ce54a58e64be761a666ac",
-          "sha1": "83e99a24c47177ebae600d2038f72aab8fe42ed7",
-          "md5": "8555023d674ec9af5faa485e2c23a70f"
+          "size": 585415,
+          "sha512": "f97bcfa91cd245442b4e04d5396920bb63cb80c69a98d779c46175b210738315b4fe8ed6faeafe1f234fa123e579fd2163577727fe43bb8917bef0a688075eb7",
+          "sha256": "56e203317ed1742325331ef86e77df46e3dbd8c3104099846480076a81c71e8a",
+          "sha1": "9b328829c4d999afb7cc394391e2df1f9acc0aee",
+          "md5": "e4ee23915e42d13d517f3bca238df306"
         }
       ]
     },
@@ -71,11 +71,11 @@
         {
           "name": "numen-api-neoforge-1.21.1-0.0.2-sources.jar",
           "url": "numen-api-neoforge-1.21.1-0.0.2-sources.jar",
-          "size": 483649,
-          "sha512": "facd669a13a09578a076ca1779f755a4a4c7ec7fdad53405595a2575256c6066c63297900b9dc17eba3a53badebf040d303e5914338ec27b6eb46d23c08a7eca",
-          "sha256": "b6ef86497e31be11b1ff4e3830a9219369111375c2c339e4352ef316cb81663d",
-          "sha1": "806c7920c9b02332b0d26bc0774cb5ada9f9c7c7",
-          "md5": "6b19b98bdc47cbbd1c306c471680891f"
+          "size": 490837,
+          "sha512": "282e8c03ebbb878c8a0e24a0939c4689ec6ec7315061b869c227e12b1d10601078f6119af5732606a2b2769c06a54323fdc925074fdbd7f45d404d425eb0b956",
+          "sha256": "c8254316ff021d973342339667809c302fd9422577326319409204f99f17f34c",
+          "sha1": "35ea4ed95e0443925c343232661fa7fb5cc122fd",
+          "md5": "fe070338d28c84ca64e7d237c8394f1d"
         }
       ]
     },
@@ -92,11 +92,11 @@
         {
           "name": "numen-api-neoforge-1.21.1-0.0.2-javadoc.jar",
           "url": "numen-api-neoforge-1.21.1-0.0.2-javadoc.jar",
-          "size": 753411,
-          "sha512": "4c954fa0905e2c4b3da211e630ece4201115591591e8313f5ed69dea1cee8f3c41bc976d26f681e503eeb8ea239d470c4d777beda32fab2d34a31af0937c427f",
-          "sha256": "dfb7bca840265ec3b5842e575fc04c911af9cd6d38111d65b35dadaed1086c6a",
-          "sha1": "f96ed4c80fd0eefbf72ab99de7ce9a9649880f1e",
-          "md5": "cf62899332dec9eee0840a6344762a71"
+          "size": 759907,
+          "sha512": "759ba4ecf5b3081e4c593e5ceb61d496cce2033f83736160fd6a104034eff7b29a86365ee38913b0446277e231cdf90087fbbdc365c421e8526af88556fcec8f",
+          "sha256": "edf8ae5053e6ece801b193560245495c61ea21bda58ff7d25d5e5c6d1beced29",
+          "sha1": "3c06b6010233089760f1bef4e68691fe9dd6a3ba",
+          "md5": "0d3f0d949cdbf687cb53cfcebffc4c34"
         }
       ]
     }
