@@ -2,7 +2,7 @@
 
 托管 **numen-api** 引擎发布产物的静态 Maven 仓库。通过 `raw.githubusercontent.com` 提供纯文件访问,无需认证,无需服务端。
 
-[English](README.md) | 简体中文
+[English](README_EN.md) | 简体中文
 
 ## 在 Gradle 中使用
 

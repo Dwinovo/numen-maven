@@ -2,7 +2,7 @@
 
 A static Maven repository hosting the published **numen-api** engine artifacts. Plain files served over `raw.githubusercontent.com` — no authentication, no server.
 
-English | [简体中文](README_ZH.md)
+English | [简体中文](README.md)
 
 ## Consuming in Gradle
 
