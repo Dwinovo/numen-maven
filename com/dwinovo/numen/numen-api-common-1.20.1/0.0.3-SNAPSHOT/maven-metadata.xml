@@ -3,44 +3,44 @@
   <groupId>com.dwinovo.numen</groupId>
   <artifactId>numen-api-common-1.20.1</artifactId>
   <versioning>
-    <lastUpdated>20260713033523</lastUpdated>
+    <lastUpdated>20260713041147</lastUpdated>
     <snapshot>
-      <timestamp>20260713.033523</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20260713.041147</timestamp>
+      <buildNumber>3</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
-        <classifier>api</classifier>
+        <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>0.0.3-20260713.033523-1</value>
-        <updated>20260713033523</updated>
+        <value>0.0.3-20260713.041147-3</value>
+        <updated>20260713041147</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.3-20260713.041147-3</value>
+        <updated>20260713041147</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>module</extension>
+        <value>0.0.3-20260713.041147-3</value>
+        <updated>20260713041147</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.3-20260713.041147-3</value>
+        <updated>20260713041147</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.0.3-20260713.033523-1</value>
-        <updated>20260713033523</updated>
+        <value>0.0.3-20260713.041147-3</value>
+        <updated>20260713041147</updated>
       </snapshotVersion>
       <snapshotVersion>
-        <classifier>javadoc</classifier>
+        <classifier>api</classifier>
         <extension>jar</extension>
-        <value>0.0.3-20260713.033523-1</value>
-        <updated>20260713033523</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>jar</extension>
-        <value>0.0.3-20260713.033523-1</value>
-        <updated>20260713033523</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>pom</extension>
-        <value>0.0.3-20260713.033523-1</value>
-        <updated>20260713033523</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>module</extension>
-        <value>0.0.3-20260713.033523-1</value>
-        <updated>20260713033523</updated>
+        <value>0.0.3-20260713.041147-3</value>
+        <updated>20260713041147</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
