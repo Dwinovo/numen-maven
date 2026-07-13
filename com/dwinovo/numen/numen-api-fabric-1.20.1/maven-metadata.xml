@@ -3,11 +3,12 @@
   <groupId>com.dwinovo.numen</groupId>
   <artifactId>numen-api-fabric-1.20.1</artifactId>
   <versioning>
-    <latest>0.0.2-SNAPSHOT</latest>
+    <latest>0.0.3-SNAPSHOT</latest>
     <versions>
       <version>0.0.1-SNAPSHOT</version>
       <version>0.0.2-SNAPSHOT</version>
+      <version>0.0.3-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20260711161225</lastUpdated>
+    <lastUpdated>20260713033607</lastUpdated>
   </versioning>
 </metadata>
