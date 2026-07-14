@@ -1,0 +1,120 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.dwinovo.numen",
+    "module": "numen-api-fabric-1.21.1",
+    "version": "0.0.4-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.2.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "fabric",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "numen-api-fabric-1.21.1-0.0.4-SNAPSHOT.jar",
+          "url": "numen-api-fabric-1.21.1-0.0.4-SNAPSHOT.jar",
+          "size": 653155,
+          "sha512": "6a3c3c2befbd68e9fcadbb1747ec11e9bb4cce752c11bf0aa5d4199c395c6654807bade9c7e66ab0bf5f6a2ce56b0c0f670b045d012232b9388600b2e6c60cf0",
+          "sha256": "a578b02be6be939fdfb602700001bd11a537c1461df649b6cbdce312db3e1c68",
+          "sha1": "7fb6a9575cd462267f9217aeecb2fc4e894eaf2d",
+          "md5": "6cf5983661b45704b0fd0ad518036582"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "fabric",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.18.1"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.116.7+1.21.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "numen-api-fabric-1.21.1-0.0.4-SNAPSHOT.jar",
+          "url": "numen-api-fabric-1.21.1-0.0.4-SNAPSHOT.jar",
+          "size": 653155,
+          "sha512": "6a3c3c2befbd68e9fcadbb1747ec11e9bb4cce752c11bf0aa5d4199c395c6654807bade9c7e66ab0bf5f6a2ce56b0c0f670b045d012232b9388600b2e6c60cf0",
+          "sha256": "a578b02be6be939fdfb602700001bd11a537c1461df649b6cbdce312db3e1c68",
+          "sha1": "7fb6a9575cd462267f9217aeecb2fc4e894eaf2d",
+          "md5": "6cf5983661b45704b0fd0ad518036582"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "fabric",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-api-fabric-1.21.1-0.0.4-SNAPSHOT-sources.jar",
+          "url": "numen-api-fabric-1.21.1-0.0.4-SNAPSHOT-sources.jar",
+          "size": 536517,
+          "sha512": "715ca5a9439e4a123f36204142ae759db9006781c6110cf5c5b6c2c59061b619b49aae5f27061bfe785e07856b112cf68ada2f4b66c6c445748982b80ac4f100",
+          "sha256": "64a6f357f22d3423776625185d53e355525c3dcb0825cae71af54b83431e949b",
+          "sha1": "5063c8d0eeb464c8487cdcb32096ed8711148a19",
+          "md5": "10ae1bd5cf4a26540a55f5826b7914e4"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "fabric",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-api-fabric-1.21.1-0.0.4-SNAPSHOT-javadoc.jar",
+          "url": "numen-api-fabric-1.21.1-0.0.4-SNAPSHOT-javadoc.jar",
+          "size": 797682,
+          "sha512": "3dd436db1364fa649a04b1d85484a32b733d0f05726818443d95f7772dd04228a1433b464abe08a45dfd9e7e68a5052e14bbfced93092c59bec4a81d1da2133a",
+          "sha256": "3607be1d82d5746a4d5777a9a5dcc567581f3bd1d0f665e4a933e95c55e7c963",
+          "sha1": "1d603698d0ec94caf8e9b3a91ab87d65ad15a364",
+          "md5": "7ccde56b03b8d1edae1074c150e8897f"
+        }
+      ]
+    }
+  ]
+}
