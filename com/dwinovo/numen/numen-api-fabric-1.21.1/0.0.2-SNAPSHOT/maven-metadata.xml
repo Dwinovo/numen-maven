@@ -3,44 +3,44 @@
   <groupId>com.dwinovo.numen</groupId>
   <artifactId>numen-api-fabric-1.21.1</artifactId>
   <versioning>
-    <lastUpdated>20260709142039</lastUpdated>
+    <lastUpdated>20260712110635</lastUpdated>
     <snapshot>
-      <timestamp>20260709.142039</timestamp>
-      <buildNumber>2</buildNumber>
+      <timestamp>20260712.110635</timestamp>
+      <buildNumber>22</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
-        <classifier>javadoc</classifier>
-        <extension>jar</extension>
-        <value>0.0.2-20260709.142039-2</value>
-        <updated>20260709142039</updated>
+        <extension>pom</extension>
+        <value>0.0.2-20260712.110635-22</value>
+        <updated>20260712110635</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>module</extension>
-        <value>0.0.2-20260709.142039-2</value>
-        <updated>20260709142039</updated>
+        <value>0.0.2-20260712.110635-22</value>
+        <updated>20260712110635</updated>
       </snapshotVersion>
       <snapshotVersion>
+        <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>0.0.2-20260709.142039-2</value>
-        <updated>20260709142039</updated>
+        <value>0.0.2-20260712.110635-22</value>
+        <updated>20260712110635</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.0.2-20260709.142039-2</value>
-        <updated>20260709142039</updated>
+        <value>0.0.2-20260712.110635-22</value>
+        <updated>20260712110635</updated>
       </snapshotVersion>
       <snapshotVersion>
-        <extension>pom</extension>
-        <value>0.0.2-20260709.142039-2</value>
-        <updated>20260709142039</updated>
+        <extension>jar</extension>
+        <value>0.0.2-20260712.110635-22</value>
+        <updated>20260712110635</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>api</classifier>
         <extension>jar</extension>
-        <value>0.0.2-20260709.142039-2</value>
-        <updated>20260709142039</updated>
+        <value>0.0.2-20260712.110635-22</value>
+        <updated>20260712110635</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

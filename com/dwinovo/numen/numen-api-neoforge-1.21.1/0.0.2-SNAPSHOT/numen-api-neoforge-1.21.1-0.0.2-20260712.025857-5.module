@@ -1,0 +1,104 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.dwinovo.numen",
+    "module": "numen-api-neoforge-1.21.1",
+    "version": "0.0.2-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.2.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "numen-api-neoforge-1.21.1-0.0.2-SNAPSHOT.jar",
+          "url": "numen-api-neoforge-1.21.1-0.0.2-SNAPSHOT.jar",
+          "size": 597342,
+          "sha512": "281dcced7327bef6b123a1ddf884acb0a50b9101d9a9c807e31eae1c860721744e819f0aa16c7e31a4205d7680a96e9adc2cf432fcaa87ffd2796e380aa8fb62",
+          "sha256": "19d82630b4e31fa4b97ccef5f44208d2354b018780c77872a39a27ca5bd4fcd0",
+          "sha1": "83d9581d56e2bb824c77040cb7cd9a151ddfccaf",
+          "md5": "733f073361fa7457eaf0d0063078dbc7"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-api-neoforge-1.21.1-0.0.2-SNAPSHOT.jar",
+          "url": "numen-api-neoforge-1.21.1-0.0.2-SNAPSHOT.jar",
+          "size": 597342,
+          "sha512": "281dcced7327bef6b123a1ddf884acb0a50b9101d9a9c807e31eae1c860721744e819f0aa16c7e31a4205d7680a96e9adc2cf432fcaa87ffd2796e380aa8fb62",
+          "sha256": "19d82630b4e31fa4b97ccef5f44208d2354b018780c77872a39a27ca5bd4fcd0",
+          "sha1": "83d9581d56e2bb824c77040cb7cd9a151ddfccaf",
+          "md5": "733f073361fa7457eaf0d0063078dbc7"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-api-neoforge-1.21.1-0.0.2-SNAPSHOT-sources.jar",
+          "url": "numen-api-neoforge-1.21.1-0.0.2-SNAPSHOT-sources.jar",
+          "size": 495016,
+          "sha512": "c9b2e92be2562253c4595f5342a3d1e1c6a6f0d089896e6eb20baa3875e855e58c5c2ca13db90213c6b9ab3bf6a4741682e882f0b97a6242049c1743b064bb84",
+          "sha256": "720ac92d6c2e711422729cf5ec2ce3d793131cccfe6749990acc6dd601069eb4",
+          "sha1": "38bb3e54401f6bfaddae5348fbe2df04680b52fe",
+          "md5": "4731f83b8a35be9d0390a56160d841af"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-api-neoforge-1.21.1-0.0.2-SNAPSHOT-javadoc.jar",
+          "url": "numen-api-neoforge-1.21.1-0.0.2-SNAPSHOT-javadoc.jar",
+          "size": 755881,
+          "sha512": "7dca5f66848c8dfd5360d2169eb35e45a505eac49aed5fd3585b874f847b7a6d438ca4a0bbe4aac7d965fcd674975ddc9de11995d52ac2bd7cfffad9ef9738e5",
+          "sha256": "b99ac6a92542979ab6e986e0a88a36b78b9b2a70d534f61110ed0a386b7db77f",
+          "sha1": "dfc7c9445075d5b663c67493fc928730b4b965e0",
+          "md5": "6ab6b3bd556af32df0148b26d1b2e619"
+        }
+      ]
+    }
+  ]
+}
