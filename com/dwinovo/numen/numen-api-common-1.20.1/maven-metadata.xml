@@ -3,13 +3,14 @@
   <groupId>com.dwinovo.numen</groupId>
   <artifactId>numen-api-common-1.20.1</artifactId>
   <versioning>
-    <latest>0.0.4-SNAPSHOT</latest>
+    <latest>0.0.5-SNAPSHOT</latest>
     <versions>
       <version>0.0.1-SNAPSHOT</version>
       <version>0.0.2-SNAPSHOT</version>
       <version>0.0.3-SNAPSHOT</version>
       <version>0.0.4-SNAPSHOT</version>
+      <version>0.0.5-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20260714145548</lastUpdated>
+    <lastUpdated>20260716184741</lastUpdated>
   </versioning>
 </metadata>
