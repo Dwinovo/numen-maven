@@ -3,44 +3,44 @@
   <groupId>com.dwinovo.numen</groupId>
   <artifactId>numen-api-fabric-1.20.1</artifactId>
   <versioning>
-    <lastUpdated>20260716184616</lastUpdated>
+    <lastUpdated>20260717065802</lastUpdated>
     <snapshot>
-      <timestamp>20260716.184616</timestamp>
-      <buildNumber>2</buildNumber>
+      <timestamp>20260717.065802</timestamp>
+      <buildNumber>3</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
-        <extension>module</extension>
-        <value>0.0.5-20260716.184616-2</value>
-        <updated>20260716184616</updated>
+        <classifier>api</classifier>
+        <extension>jar</extension>
+        <value>0.0.5-20260717.065802-3</value>
+        <updated>20260717065802</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.5-20260717.065802-3</value>
+        <updated>20260717065802</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.0.5-20260716.184616-2</value>
-        <updated>20260716184616</updated>
+        <value>0.0.5-20260717.065802-3</value>
+        <updated>20260717065802</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.5-20260716.184616-2</value>
-        <updated>20260716184616</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>api</classifier>
-        <extension>jar</extension>
-        <value>0.0.5-20260716.184616-2</value>
-        <updated>20260716184616</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>jar</extension>
-        <value>0.0.5-20260716.184616-2</value>
-        <updated>20260716184616</updated>
+        <value>0.0.5-20260717.065802-3</value>
+        <updated>20260717065802</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>0.0.5-20260716.184616-2</value>
-        <updated>20260716184616</updated>
+        <value>0.0.5-20260717.065802-3</value>
+        <updated>20260717065802</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>module</extension>
+        <value>0.0.5-20260717.065802-3</value>
+        <updated>20260717065802</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
