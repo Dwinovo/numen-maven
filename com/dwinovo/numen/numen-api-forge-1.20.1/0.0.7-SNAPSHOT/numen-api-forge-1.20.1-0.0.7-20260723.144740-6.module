@@ -1,0 +1,113 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.dwinovo.numen",
+    "module": "numen-api-forge-1.20.1",
+    "version": "0.0.7-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.7"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "forge",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "numen-api-forge-1.20.1-0.0.7-SNAPSHOT.jar",
+          "url": "numen-api-forge-1.20.1-0.0.7-SNAPSHOT.jar",
+          "size": 913032,
+          "sha512": "d20537852959ba6a67e2def3acc67ee236b8444c9cf6ec8428c3a43b7c15f2a2548431c83bb1601b1d0250d3ffbcd065ceac21c47ceee19900a3cc6a4564d4f3",
+          "sha256": "a7c57c3bf3905e2f17177cd0837e13ca6e656814550fee1a3484e05687ea2018",
+          "sha1": "5b7d80ce8b2a7e326b6926192e2be7462b497729",
+          "md5": "14fd6ca68706143279661d3860e98caa"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "forge",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.minecraftforge",
+          "module": "forge",
+          "version": {
+            "requires": "1.20.1-47.2.30_mapped_official_1.20.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "numen-api-forge-1.20.1-0.0.7-SNAPSHOT.jar",
+          "url": "numen-api-forge-1.20.1-0.0.7-SNAPSHOT.jar",
+          "size": 913032,
+          "sha512": "d20537852959ba6a67e2def3acc67ee236b8444c9cf6ec8428c3a43b7c15f2a2548431c83bb1601b1d0250d3ffbcd065ceac21c47ceee19900a3cc6a4564d4f3",
+          "sha256": "a7c57c3bf3905e2f17177cd0837e13ca6e656814550fee1a3484e05687ea2018",
+          "sha1": "5b7d80ce8b2a7e326b6926192e2be7462b497729",
+          "md5": "14fd6ca68706143279661d3860e98caa"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "forge",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-api-forge-1.20.1-0.0.7-SNAPSHOT-sources.jar",
+          "url": "numen-api-forge-1.20.1-0.0.7-SNAPSHOT-sources.jar",
+          "size": 726333,
+          "sha512": "e66b86bc3367d5afad8ba6b41236ed3cc030a8c3dd1ee3f3b541f152c0290f40c5523c02c7c7f6a18aa2722f99b8fe7641fc19c2be35fe28d913401a5c3c634a",
+          "sha256": "b7f91473b48ebcd34f4fca6da2d8c0d9d84d19901788d8a22cb0026aad3c5bfe",
+          "sha1": "9bcb3dfa8dad6e77321748208e4c8fae028ec414",
+          "md5": "8d3399e83ac17031c8cba438faf05c28"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "forge",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-api-forge-1.20.1-0.0.7-SNAPSHOT-javadoc.jar",
+          "url": "numen-api-forge-1.20.1-0.0.7-SNAPSHOT-javadoc.jar",
+          "size": 261,
+          "sha512": "2f6980ec8c8ea5ab11fead434d47f28921bf40b779501b2715891325f737721e1328a67e8c9c25192f37277e68af8e4989dbd7542600db8a949ab822c4ebc778",
+          "sha256": "fd88e238dcba72a5f0ca34e98df5582e0eb1ffef29b49f3456a2efa018105730",
+          "sha1": "59fa7debff6b7ff8ef092a08d2dedac097a5ac52",
+          "md5": "164417947296d7688df3627b18f05601"
+        }
+      ]
+    }
+  ]
+}
