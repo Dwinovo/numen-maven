@@ -3,10 +3,11 @@
   <groupId>com.dwinovo.numen</groupId>
   <artifactId>numen-api-neoforge-1.21.8</artifactId>
   <versioning>
-    <latest>0.0.1-SNAPSHOT</latest>
+    <latest>0.0.7-SNAPSHOT</latest>
     <versions>
       <version>0.0.1-SNAPSHOT</version>
+      <version>0.0.7-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20260707030148</lastUpdated>
+    <lastUpdated>20260724090310</lastUpdated>
   </versioning>
 </metadata>
