@@ -3,44 +3,44 @@
   <groupId>com.dwinovo.numen</groupId>
   <artifactId>numen-api-fabric-1.21.1</artifactId>
   <versioning>
-    <lastUpdated>20260723104344</lastUpdated>
+    <lastUpdated>20260724135633</lastUpdated>
     <snapshot>
-      <timestamp>20260723.104344</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20260724.135633</timestamp>
+      <buildNumber>3</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
-        <extension>pom</extension>
-        <value>0.0.7-20260723.104344-1</value>
-        <updated>20260723104344</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>jar</extension>
-        <value>0.0.7-20260723.104344-1</value>
-        <updated>20260723104344</updated>
+        <extension>module</extension>
+        <value>0.0.7-20260724.135633-3</value>
+        <updated>20260724135633</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>0.0.7-20260723.104344-1</value>
-        <updated>20260723104344</updated>
+        <value>0.0.7-20260724.135633-3</value>
+        <updated>20260724135633</updated>
       </snapshotVersion>
       <snapshotVersion>
-        <extension>module</extension>
-        <value>0.0.7-20260723.104344-1</value>
-        <updated>20260723104344</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>api</classifier>
-        <extension>jar</extension>
-        <value>0.0.7-20260723.104344-1</value>
-        <updated>20260723104344</updated>
+        <extension>pom</extension>
+        <value>0.0.7-20260724.135633-3</value>
+        <updated>20260724135633</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.0.7-20260723.104344-1</value>
-        <updated>20260723104344</updated>
+        <value>0.0.7-20260724.135633-3</value>
+        <updated>20260724135633</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>api</classifier>
+        <extension>jar</extension>
+        <value>0.0.7-20260724.135633-3</value>
+        <updated>20260724135633</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.7-20260724.135633-3</value>
+        <updated>20260724135633</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

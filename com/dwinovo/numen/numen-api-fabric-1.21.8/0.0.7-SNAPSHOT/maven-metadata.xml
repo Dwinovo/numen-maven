@@ -3,44 +3,44 @@
   <groupId>com.dwinovo.numen</groupId>
   <artifactId>numen-api-fabric-1.21.8</artifactId>
   <versioning>
-    <lastUpdated>20260724090301</lastUpdated>
+    <lastUpdated>20260724143439</lastUpdated>
     <snapshot>
-      <timestamp>20260724.090301</timestamp>
-      <buildNumber>2</buildNumber>
+      <timestamp>20260724.143439</timestamp>
+      <buildNumber>3</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
+        <classifier>api</classifier>
+        <extension>jar</extension>
+        <value>0.0.7-20260724.143439-3</value>
+        <updated>20260724143439</updated>
+      </snapshotVersion>
+      <snapshotVersion>
         <extension>module</extension>
-        <value>0.0.7-20260724.090301-2</value>
-        <updated>20260724090301</updated>
+        <value>0.0.7-20260724.143439-3</value>
+        <updated>20260724143439</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.7-20260724.143439-3</value>
+        <updated>20260724143439</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.0.7-20260724.090301-2</value>
-        <updated>20260724090301</updated>
+        <value>0.0.7-20260724.143439-3</value>
+        <updated>20260724143439</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>0.0.7-20260724.090301-2</value>
-        <updated>20260724090301</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>jar</extension>
-        <value>0.0.7-20260724.090301-2</value>
-        <updated>20260724090301</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>api</classifier>
-        <extension>jar</extension>
-        <value>0.0.7-20260724.090301-2</value>
-        <updated>20260724090301</updated>
+        <value>0.0.7-20260724.143439-3</value>
+        <updated>20260724143439</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.7-20260724.090301-2</value>
-        <updated>20260724090301</updated>
+        <value>0.0.7-20260724.143439-3</value>
+        <updated>20260724143439</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

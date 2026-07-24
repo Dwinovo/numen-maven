@@ -3,44 +3,44 @@
   <groupId>com.dwinovo.numen</groupId>
   <artifactId>numen-api-forge-1.20.2</artifactId>
   <versioning>
-    <lastUpdated>20260723153136</lastUpdated>
+    <lastUpdated>20260724140908</lastUpdated>
     <snapshot>
-      <timestamp>20260723.153136</timestamp>
-      <buildNumber>3</buildNumber>
+      <timestamp>20260724.140908</timestamp>
+      <buildNumber>4</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.7-20260723.153136-3</value>
-        <updated>20260723153136</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>module</extension>
-        <value>0.0.7-20260723.153136-3</value>
-        <updated>20260723153136</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>api</classifier>
-        <extension>jar</extension>
-        <value>0.0.7-20260723.153136-3</value>
-        <updated>20260723153136</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>pom</extension>
-        <value>0.0.7-20260723.153136-3</value>
-        <updated>20260723153136</updated>
+        <value>0.0.7-20260724.140908-4</value>
+        <updated>20260724140908</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.0.7-20260723.153136-3</value>
-        <updated>20260723153136</updated>
+        <value>0.0.7-20260724.140908-4</value>
+        <updated>20260724140908</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>module</extension>
+        <value>0.0.7-20260724.140908-4</value>
+        <updated>20260724140908</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>api</classifier>
+        <extension>jar</extension>
+        <value>0.0.7-20260724.140908-4</value>
+        <updated>20260724140908</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.7-20260724.140908-4</value>
+        <updated>20260724140908</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>0.0.7-20260723.153136-3</value>
-        <updated>20260723153136</updated>
+        <value>0.0.7-20260724.140908-4</value>
+        <updated>20260724140908</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
