@@ -3,44 +3,44 @@
   <groupId>com.dwinovo.numen</groupId>
   <artifactId>numen-api-neoforge-1.21.4</artifactId>
   <versioning>
-    <lastUpdated>20260724142535</lastUpdated>
+    <lastUpdated>20260725041916</lastUpdated>
     <snapshot>
-      <timestamp>20260724.142535</timestamp>
-      <buildNumber>3</buildNumber>
+      <timestamp>20260725.041916</timestamp>
+      <buildNumber>4</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
-        <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.0.7-20260724.142535-3</value>
-        <updated>20260724142535</updated>
+        <value>0.0.7-20260725.041916-4</value>
+        <updated>20260725041916</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>0.0.7-20260724.142535-3</value>
-        <updated>20260724142535</updated>
+        <value>0.0.7-20260725.041916-4</value>
+        <updated>20260725041916</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>module</extension>
+        <value>0.0.7-20260725.041916-4</value>
+        <updated>20260725041916</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>api</classifier>
         <extension>jar</extension>
-        <value>0.0.7-20260724.142535-3</value>
-        <updated>20260724142535</updated>
+        <value>0.0.7-20260725.041916-4</value>
+        <updated>20260725041916</updated>
       </snapshotVersion>
       <snapshotVersion>
+        <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.0.7-20260724.142535-3</value>
-        <updated>20260724142535</updated>
+        <value>0.0.7-20260725.041916-4</value>
+        <updated>20260725041916</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.7-20260724.142535-3</value>
-        <updated>20260724142535</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>module</extension>
-        <value>0.0.7-20260724.142535-3</value>
-        <updated>20260724142535</updated>
+        <value>0.0.7-20260725.041916-4</value>
+        <updated>20260725041916</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

@@ -3,44 +3,44 @@
   <groupId>com.dwinovo.numen</groupId>
   <artifactId>numen-api-fabric-1.21.11</artifactId>
   <versioning>
-    <lastUpdated>20260724144346</lastUpdated>
+    <lastUpdated>20260725042243</lastUpdated>
     <snapshot>
-      <timestamp>20260724.144346</timestamp>
-      <buildNumber>2</buildNumber>
+      <timestamp>20260725.042243</timestamp>
+      <buildNumber>3</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
-        <classifier>javadoc</classifier>
+        <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.0.7-20260724.144346-2</value>
-        <updated>20260724144346</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>jar</extension>
-        <value>0.0.7-20260724.144346-2</value>
-        <updated>20260724144346</updated>
+        <value>0.0.7-20260725.042243-3</value>
+        <updated>20260725042243</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>module</extension>
-        <value>0.0.7-20260724.144346-2</value>
-        <updated>20260724144346</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>sources</classifier>
-        <extension>jar</extension>
-        <value>0.0.7-20260724.144346-2</value>
-        <updated>20260724144346</updated>
+        <value>0.0.7-20260725.042243-3</value>
+        <updated>20260725042243</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>api</classifier>
         <extension>jar</extension>
-        <value>0.0.7-20260724.144346-2</value>
-        <updated>20260724144346</updated>
+        <value>0.0.7-20260725.042243-3</value>
+        <updated>20260725042243</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>javadoc</classifier>
+        <extension>jar</extension>
+        <value>0.0.7-20260725.042243-3</value>
+        <updated>20260725042243</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.7-20260725.042243-3</value>
+        <updated>20260725042243</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.7-20260724.144346-2</value>
-        <updated>20260724144346</updated>
+        <value>0.0.7-20260725.042243-3</value>
+        <updated>20260725042243</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

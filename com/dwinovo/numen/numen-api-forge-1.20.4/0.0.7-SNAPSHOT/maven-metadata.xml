@@ -3,44 +3,44 @@
   <groupId>com.dwinovo.numen</groupId>
   <artifactId>numen-api-forge-1.20.4</artifactId>
   <versioning>
-    <lastUpdated>20260724141412</lastUpdated>
+    <lastUpdated>20260725042921</lastUpdated>
     <snapshot>
-      <timestamp>20260724.141412</timestamp>
-      <buildNumber>2</buildNumber>
+      <timestamp>20260725.042921</timestamp>
+      <buildNumber>3</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
-        <classifier>sources</classifier>
+        <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>0.0.7-20260724.141412-2</value>
-        <updated>20260724141412</updated>
+        <value>0.0.7-20260725.042921-3</value>
+        <updated>20260725042921</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.7-20260724.141412-2</value>
-        <updated>20260724141412</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>module</extension>
-        <value>0.0.7-20260724.141412-2</value>
-        <updated>20260724141412</updated>
+        <value>0.0.7-20260725.042921-3</value>
+        <updated>20260725042921</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>api</classifier>
         <extension>jar</extension>
-        <value>0.0.7-20260724.141412-2</value>
-        <updated>20260724141412</updated>
+        <value>0.0.7-20260725.042921-3</value>
+        <updated>20260725042921</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.7-20260724.141412-2</value>
-        <updated>20260724141412</updated>
+        <value>0.0.7-20260725.042921-3</value>
+        <updated>20260725042921</updated>
       </snapshotVersion>
       <snapshotVersion>
-        <classifier>javadoc</classifier>
+        <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.0.7-20260724.141412-2</value>
-        <updated>20260724141412</updated>
+        <value>0.0.7-20260725.042921-3</value>
+        <updated>20260725042921</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>module</extension>
+        <value>0.0.7-20260725.042921-3</value>
+        <updated>20260725042921</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
