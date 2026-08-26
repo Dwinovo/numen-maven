@@ -1,0 +1,113 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.dwinovo.numen",
+    "module": "numen-neoforge-1.20.6",
+    "version": "0.1.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.2.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "numen-neoforge-1.20.6-0.1.2.jar",
+          "url": "numen-neoforge-1.20.6-0.1.2.jar",
+          "size": 2550783,
+          "sha512": "2c269a143316fd9f7803a4c3596b4200ed56de965aa0fb615b592c7db22b2fb741bd36b6fbd86bd7a39380abaea0665118ba150bde810b7fbfad81468967c1e5",
+          "sha256": "9d20c29455dd9236cefcc59dffa41765b846bf88b31c9b0abda9e571d88c8f6e",
+          "sha1": "c0811bfdcef2e8187c95c6320b26440cded5a172",
+          "md5": "3f489410a8f5a25fdef3dbf24d945662"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-api-neoforge-1.20.6",
+          "version": {
+            "requires": "0.0.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "numen-neoforge-1.20.6-0.1.2.jar",
+          "url": "numen-neoforge-1.20.6-0.1.2.jar",
+          "size": 2550783,
+          "sha512": "2c269a143316fd9f7803a4c3596b4200ed56de965aa0fb615b592c7db22b2fb741bd36b6fbd86bd7a39380abaea0665118ba150bde810b7fbfad81468967c1e5",
+          "sha256": "9d20c29455dd9236cefcc59dffa41765b846bf88b31c9b0abda9e571d88c8f6e",
+          "sha1": "c0811bfdcef2e8187c95c6320b26440cded5a172",
+          "md5": "3f489410a8f5a25fdef3dbf24d945662"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-neoforge-1.20.6-0.1.2-sources.jar",
+          "url": "numen-neoforge-1.20.6-0.1.2-sources.jar",
+          "size": 1064518,
+          "sha512": "2587c802454a0f6ae345f8974a8f3bd6d9153a4f19e32eee9639fed47d4ff23388b6694513c33287b4964a89548ae2d7ea32a105db56c90babbe06eb6af422d1",
+          "sha256": "07cecdd1e6e2adb34427f1979925683fc3aea9056abc4b9be7466344bdb965d8",
+          "sha1": "ffe832387a1cb00c192b01b90ca859ee34ce0bd4",
+          "md5": "5d290eab5f8df59ce8488b2e2cba2fa5"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-neoforge-1.20.6-0.1.2-javadoc.jar",
+          "url": "numen-neoforge-1.20.6-0.1.2-javadoc.jar",
+          "size": 1524539,
+          "sha512": "e7a50f138b3cfe2483a414f6edc65c889e03f66d6cad850878ab37a3d7c737012efdaaee3550e05ec723cc9778255053de2e2049e985e3a069287884ef3b4116",
+          "sha256": "2ea9292bc5a27d012f5e162a4b99d0cfa6939dfa97f01ab281772210ae16f978",
+          "sha1": "7e2fe8afcaa3db874af8e9da0182f558ec362491",
+          "md5": "82c8002d843f7676fbafc40fc14d3d70"
+        }
+      ]
+    }
+  ]
+}

@@ -43,11 +43,11 @@
         {
           "name": "numen-ai-0.0.9.jar",
           "url": "numen-ai-0.0.9.jar",
-          "size": 79764,
-          "sha512": "8d0a3126cc21fc3fbe7ac5594ad5f9623e7365c90ad438555cf97fb1fb2da9ad8b8a75f376c407562c073f09e54bd05aead90161e6252fc965f003f186720d86",
-          "sha256": "cbc7956c583257c82a68cf8c48520131ec55d1ed510660124f5ffdecf9c39617",
-          "sha1": "a5f5c65059d1b9e67d3f8d020b983a0788b8d263",
-          "md5": "d7ec2b6dd9af596550794d4311145416"
+          "size": 77478,
+          "sha512": "70b9a6117e52920f924fdef9c39340228786cbdf9c166d28b1a6fb9d99d445161cec5fc3c0714c37b97b7fa662cce0fd4426dfaff21717bc566fcc1dc75085ba",
+          "sha256": "5cc689c70dae2d0881635e2475da53982bde74245b5fedba774a2d143b4ec993",
+          "sha1": "66194617aa249a77dcb195a0687c607905417632",
+          "md5": "336089cc60f3a835da08dba89b7a0420"
         }
       ]
     },
@@ -80,11 +80,11 @@
         {
           "name": "numen-ai-0.0.9.jar",
           "url": "numen-ai-0.0.9.jar",
-          "size": 79764,
-          "sha512": "8d0a3126cc21fc3fbe7ac5594ad5f9623e7365c90ad438555cf97fb1fb2da9ad8b8a75f376c407562c073f09e54bd05aead90161e6252fc965f003f186720d86",
-          "sha256": "cbc7956c583257c82a68cf8c48520131ec55d1ed510660124f5ffdecf9c39617",
-          "sha1": "a5f5c65059d1b9e67d3f8d020b983a0788b8d263",
-          "md5": "d7ec2b6dd9af596550794d4311145416"
+          "size": 77478,
+          "sha512": "70b9a6117e52920f924fdef9c39340228786cbdf9c166d28b1a6fb9d99d445161cec5fc3c0714c37b97b7fa662cce0fd4426dfaff21717bc566fcc1dc75085ba",
+          "sha256": "5cc689c70dae2d0881635e2475da53982bde74245b5fedba774a2d143b4ec993",
+          "sha1": "66194617aa249a77dcb195a0687c607905417632",
+          "md5": "336089cc60f3a835da08dba89b7a0420"
         }
       ]
     },
@@ -100,11 +100,11 @@
         {
           "name": "numen-ai-0.0.9-sources.jar",
           "url": "numen-ai-0.0.9-sources.jar",
-          "size": 65059,
-          "sha512": "475829d5aa19ac2f2e3911ac393b7fd540c9d75f191cf7294b2f97a4f26a7a5c9b90101670223c6c5b7837674efc9a4839535a7980f8659a8c9bb531f7a1ab17",
-          "sha256": "eb91210e8ffd3d64222007415217395ac46d560f2ff47eb4f60c8c36845d628d",
-          "sha1": "4f1955c7da5a8e1ecf37f2f2adbbb2b4e747e904",
-          "md5": "893c2ca541c056deff8c181e5b309574"
+          "size": 62044,
+          "sha512": "e7d3c5f82877a7b94e60c7a8e3b78f4074fc48393e55790198ea0bdf73434041374b1d3edc884462369da8ea09d504254b2145a80aac1fbcb10a3bfd448b0364",
+          "sha256": "5f4bca31de27776ce0e3d17bb1d8e096b9a8d5e5cb54715498c03cec434a24ce",
+          "sha1": "0dd78e4a49d7cc422a5591cd09d65e803dd78faf",
+          "md5": "f9681ff56e1ddcf4cbad439cc734211a"
         }
       ]
     },
@@ -120,11 +120,11 @@
         {
           "name": "numen-ai-0.0.9-javadoc.jar",
           "url": "numen-ai-0.0.9-javadoc.jar",
-          "size": 270489,
-          "sha512": "9daad333534dd9d1c8ac9291d9536e041f5d7bdcd5c7abc8ad496cc95593af0e8e5c3fd344df2ae70e7da5665cb94b71d73a28e1014c611133c3cd98a352cf83",
-          "sha256": "4e5ac6e755f64a834b71c656934c1475a05e7e138954795cf0d91718efaf6132",
-          "sha1": "6597374ad83d023b56587b90ee75d6096ae03547",
-          "md5": "43489b3ab2ce6c56a6f4aaa4d3e93b69"
+          "size": 260374,
+          "sha512": "d4fafaffc3c4b84e308e91847aca47de7a8ed00ea288f04ef8fffef761906742af3d2c3f52c8a95cd760c2101fa736dbbfce7676a2ed0d702fe59e3db362b93e",
+          "sha256": "dababa448eb70d7442c5712f5a56a9345d9b41b79173520c3fcb29bbd953bd72",
+          "sha1": "da8283cc4be0280dce786720e81f93a54fdd3f06",
+          "md5": "959997dcb1ee3f455827e510e54cef1e"
         }
       ]
     }
