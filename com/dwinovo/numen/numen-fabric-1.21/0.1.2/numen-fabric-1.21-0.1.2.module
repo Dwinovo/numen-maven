@@ -28,11 +28,11 @@
         {
           "name": "numen-fabric-1.21-0.1.2.jar",
           "url": "numen-fabric-1.21-0.1.2.jar",
-          "size": 2464053,
-          "sha512": "81c30a6bccac7b5d86062bea1ad2d8d505172acbe7acc3da37d85ed64b36c2502661df5eb9494e92f4033b0ae4e4d2da129e13d7604ac7f400abba302e371b8d",
-          "sha256": "851152401e3dc6af0e763b6961f02e35111a6e706abcd81b14a9bb9e3905f01e",
-          "sha1": "84952f9410a7fa5cad268f2701980ef7eae7a9e2",
-          "md5": "bc0239e417ea1028f93e484b4544279f"
+          "size": 2464056,
+          "sha512": "b8f2745cf068cc40bb3c4009c315e58ae547ec6551256baadfc0e7dfca760635271a12453640f3eaced3a99220047a587fe4e924c8e9e62b89a683ce2088e1f3",
+          "sha256": "7af0ab39c561ecc7345fcbe457c12273e6300bb1cba8c2ec8579168c4f94a7d2",
+          "sha1": "ca5464fde031970c092caedf17f3de436b9b7136",
+          "md5": "20f1209ea09bacf3f516a4c67ce0d9f6"
         }
       ]
     },
@@ -73,11 +73,11 @@
         {
           "name": "numen-fabric-1.21-0.1.2.jar",
           "url": "numen-fabric-1.21-0.1.2.jar",
-          "size": 2464053,
-          "sha512": "81c30a6bccac7b5d86062bea1ad2d8d505172acbe7acc3da37d85ed64b36c2502661df5eb9494e92f4033b0ae4e4d2da129e13d7604ac7f400abba302e371b8d",
-          "sha256": "851152401e3dc6af0e763b6961f02e35111a6e706abcd81b14a9bb9e3905f01e",
-          "sha1": "84952f9410a7fa5cad268f2701980ef7eae7a9e2",
-          "md5": "bc0239e417ea1028f93e484b4544279f"
+          "size": 2464056,
+          "sha512": "b8f2745cf068cc40bb3c4009c315e58ae547ec6551256baadfc0e7dfca760635271a12453640f3eaced3a99220047a587fe4e924c8e9e62b89a683ce2088e1f3",
+          "sha256": "7af0ab39c561ecc7345fcbe457c12273e6300bb1cba8c2ec8579168c4f94a7d2",
+          "sha1": "ca5464fde031970c092caedf17f3de436b9b7136",
+          "md5": "20f1209ea09bacf3f516a4c67ce0d9f6"
         }
       ]
     },
@@ -95,10 +95,10 @@
           "name": "numen-fabric-1.21-0.1.2-sources.jar",
           "url": "numen-fabric-1.21-0.1.2-sources.jar",
           "size": 1012841,
-          "sha512": "b8887e31aeb07dded18d0c736f46765966cdc7f0ef71e53a8f4034c0d71bbf2e0762a284fe1a864174ae46180611c79a3a7e5f99a120af2dc982f61380bf3dff",
-          "sha256": "22ab13d0467f6811a6fe4537c71c9a46e378b022772862c6a9fcc497727c0f2f",
-          "sha1": "4f10880c2b6a8cd32c9a1209f8a015ebe91f71f1",
-          "md5": "a054b9a82b48ccfd241a395a47de04d3"
+          "sha512": "5a6d6cd3ae56b5ee1ba4af168e609ebc4f155e87bf13c362fe5b9016890593620a1348576e2f9e2930d75f7d62f241db646f42371aafdc3cc7c678f746978dff",
+          "sha256": "9dbb949bf08c10a9cca6dd7275889f9d1baa7b1f4d169551adadb80094b19b85",
+          "sha1": "993bba02b79c897e69e5220558a17b0b23dacb47",
+          "md5": "d5bed819412c5b58ba6790651bfdd9b6"
         }
       ]
     },

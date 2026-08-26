@@ -27,14 +27,14 @@
       "dependencies": [
         {
           "group": "com.dwinovo.numen",
-          "module": "numen-ai",
+          "module": "numen-ai-1.21",
           "version": {
             "requires": "0.0.9"
           }
         },
         {
           "group": "com.dwinovo.numen",
-          "module": "numen-ui",
+          "module": "numen-ui-1.21",
           "version": {
             "requires": "0.0.9"
           }
@@ -44,11 +44,11 @@
         {
           "name": "numen-api-neoforge-1.21-0.0.10.jar",
           "url": "numen-api-neoforge-1.21-0.0.10.jar",
-          "size": 1323384,
-          "sha512": "ffc7bf13f057ba6fc69ebd7f212fd8b6574fc7413053a95b3eaff444b358b0d7cf862bb326c4d3064ca53e8af4188a8642f0bf15a58f3ab82626ef00cc603e8e",
-          "sha256": "994bc185934ceca7ce687a41da46688d98728936c44b89a666b35bce7db4a63f",
-          "sha1": "a0f122bd49bc521c3fde2c3ac423658d95b30a85",
-          "md5": "bd2cd050ea2e0d7e41a00134c0155ba6"
+          "size": 1323386,
+          "sha512": "680487a3739d7ab13dbe43a3ba89d5758753ab2fbb6f899ed5579571b35b96d2ad41149edad13b932afa8a26774031aed8fa405ac3359beb0c121fcebcaf2e13",
+          "sha256": "f1c8ac45ec3becdb0f6a88da55bc647184bea2f3905bd2a19e6fce1bf5e8a743",
+          "sha1": "4582c17f514b2719c09762eb304f02c5ffa3ec33",
+          "md5": "fc15fb55300cdfc6f84df22b0c64cf06"
         }
       ]
     },
@@ -65,14 +65,14 @@
       "dependencies": [
         {
           "group": "com.dwinovo.numen",
-          "module": "numen-ai",
+          "module": "numen-ai-1.21",
           "version": {
             "requires": "0.0.9"
           }
         },
         {
           "group": "com.dwinovo.numen",
-          "module": "numen-ui",
+          "module": "numen-ui-1.21",
           "version": {
             "requires": "0.0.9"
           }
@@ -82,11 +82,11 @@
         {
           "name": "numen-api-neoforge-1.21-0.0.10.jar",
           "url": "numen-api-neoforge-1.21-0.0.10.jar",
-          "size": 1323384,
-          "sha512": "ffc7bf13f057ba6fc69ebd7f212fd8b6574fc7413053a95b3eaff444b358b0d7cf862bb326c4d3064ca53e8af4188a8642f0bf15a58f3ab82626ef00cc603e8e",
-          "sha256": "994bc185934ceca7ce687a41da46688d98728936c44b89a666b35bce7db4a63f",
-          "sha1": "a0f122bd49bc521c3fde2c3ac423658d95b30a85",
-          "md5": "bd2cd050ea2e0d7e41a00134c0155ba6"
+          "size": 1323386,
+          "sha512": "680487a3739d7ab13dbe43a3ba89d5758753ab2fbb6f899ed5579571b35b96d2ad41149edad13b932afa8a26774031aed8fa405ac3359beb0c121fcebcaf2e13",
+          "sha256": "f1c8ac45ec3becdb0f6a88da55bc647184bea2f3905bd2a19e6fce1bf5e8a743",
+          "sha1": "4582c17f514b2719c09762eb304f02c5ffa3ec33",
+          "md5": "fc15fb55300cdfc6f84df22b0c64cf06"
         }
       ]
     },
@@ -103,11 +103,11 @@
         {
           "name": "numen-api-neoforge-1.21-0.0.10-sources.jar",
           "url": "numen-api-neoforge-1.21-0.0.10-sources.jar",
-          "size": 1054023,
-          "sha512": "34fed9a1764a4ec9ec9255f9ad46bca27910ac964e8b683ff44af25ce3000f2fe1b85bd452e1228512b7d72b4e88e3b5460dbfe835da91708d9e4a1f22724ada",
-          "sha256": "2f7effdeaf4505791b0f3b7821a49ddc1798394025b49780fba84305563003c3",
-          "sha1": "7cfb5fba38f0139900f957bfcdd7e7dd766e5215",
-          "md5": "73781eca65a73946c2c427ffee8c97b4"
+          "size": 1054025,
+          "sha512": "1d11f756b3bb01bf863232b57a732ac065e54f9f996721837af72c3cad511e14555fbb7a7e568b96c9b6687617c2781b5198f9d80afada69571cec72b11a2746",
+          "sha256": "3de08d8e8ed7889590a18cfb877bdebd6060d3cf952cf7ab708a08c451301814",
+          "sha1": "84901297d97d2725627995ffe84785e9563358d1",
+          "md5": "999020063f182c3b53c79e7dc7e29dc9"
         }
       ]
     },

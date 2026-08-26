@@ -28,11 +28,11 @@
         {
           "name": "numen-neoforge-1.21-0.1.2.jar",
           "url": "numen-neoforge-1.21-0.1.2.jar",
-          "size": 2553183,
-          "sha512": "577cd7620b6bcd4c6600869eb8811d60e78839a43769ad5a7294dde2ca1e52494d546a9be4e813b8436ad75b9f44b9898dd072983f2cd4c9b0b6f75f37f73a92",
-          "sha256": "0844abde304c8e6821d8e07822e9e0f7e2b85bf2ead988759a0a824e9b841e09",
-          "sha1": "02745dd1c8d7f50a8893d6a0eebe0679c7abbc0b",
-          "md5": "33f585d81663f3cacc370856c30cbc88"
+          "size": 2553190,
+          "sha512": "a9fe53bae930639c31679b391334e979144ae7adcdebfcc48a4a17dbd00de19437907759ccd8f2bb19f74232169fca86d555361cc02c3a77e455fe51e9cdefa5",
+          "sha256": "38b287891f4c51cea5a3edfeb518621f36fe5726d5d690cd14329c76bb4336dd",
+          "sha1": "fc3b8da58fc3c3224a1a04cc0fcd3b21ad81f870",
+          "md5": "358724958c86973ee2ee249210ef2aaf"
         }
       ]
     },
@@ -59,11 +59,11 @@
         {
           "name": "numen-neoforge-1.21-0.1.2.jar",
           "url": "numen-neoforge-1.21-0.1.2.jar",
-          "size": 2553183,
-          "sha512": "577cd7620b6bcd4c6600869eb8811d60e78839a43769ad5a7294dde2ca1e52494d546a9be4e813b8436ad75b9f44b9898dd072983f2cd4c9b0b6f75f37f73a92",
-          "sha256": "0844abde304c8e6821d8e07822e9e0f7e2b85bf2ead988759a0a824e9b841e09",
-          "sha1": "02745dd1c8d7f50a8893d6a0eebe0679c7abbc0b",
-          "md5": "33f585d81663f3cacc370856c30cbc88"
+          "size": 2553190,
+          "sha512": "a9fe53bae930639c31679b391334e979144ae7adcdebfcc48a4a17dbd00de19437907759ccd8f2bb19f74232169fca86d555361cc02c3a77e455fe51e9cdefa5",
+          "sha256": "38b287891f4c51cea5a3edfeb518621f36fe5726d5d690cd14329c76bb4336dd",
+          "sha1": "fc3b8da58fc3c3224a1a04cc0fcd3b21ad81f870",
+          "md5": "358724958c86973ee2ee249210ef2aaf"
         }
       ]
     },
@@ -81,10 +81,10 @@
           "name": "numen-neoforge-1.21-0.1.2-sources.jar",
           "url": "numen-neoforge-1.21-0.1.2-sources.jar",
           "size": 1064615,
-          "sha512": "5aedaa725c2bf3634b086ae08f7bd4d6d040e4627f843438d13e4da6cb4bbacb2c4150b9b82570a7c4e3f68919fe7ef5776c2114c136c6fde220e95ac81da63c",
-          "sha256": "9f88d580d32cf04637a7af14e74ae90f965124357e0ce18dfa2ee2588dca7325",
-          "sha1": "605330a635a0d63ff1e565ac91f4fb6cac519004",
-          "md5": "add920034778ce40771b5d275bc418a2"
+          "sha512": "96b1bb245a4c0d2ad3abb4cc60445b058e058f47bf9282fb447bc3780dc7e21aaf321e9e83a9f1788dd43b45daddf8c117b2b91873831f84c6fc1d21e29970c3",
+          "sha256": "ad46b5d7ce6ab43cbf59009fb3dd8c80dd48e730d4b6ccaf5ab41162e94f2cef",
+          "sha1": "e594feeff80c5cd69f18d3d85631ac77c9a676c7",
+          "md5": "b6be441f146707b25d179e6370cd6408"
         }
       ]
     },
