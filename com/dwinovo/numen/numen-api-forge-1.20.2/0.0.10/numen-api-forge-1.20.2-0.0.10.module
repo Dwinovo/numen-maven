@@ -1,0 +1,143 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.dwinovo.numen",
+    "module": "numen-api-forge-1.20.2",
+    "version": "0.0.10",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.7"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "forge",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-ai-1.20.2",
+          "version": {
+            "requires": "0.0.9"
+          }
+        },
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-ui-1.20.2",
+          "version": {
+            "requires": "0.0.9"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "numen-api-forge-1.20.2-0.0.10.jar",
+          "url": "numen-api-forge-1.20.2-0.0.10.jar",
+          "size": 1323485,
+          "sha512": "6c79f5e8ecd6d1f736a6b059077c098c0018af9ffbe05d8d7ab27187d973dc1858f408734346d1c12ba37291880fbaaeccab7723e9cad6ff30049db14db56f08",
+          "sha256": "13e0e2d7d78bacdc3870378ce4738d1565afd6981b9e0bf7e06a83bfa25f3a71",
+          "sha1": "39a648d929eeae1f8da6a7baeedbe34dba3d2f24",
+          "md5": "41043749289b4968db10affba724c7c8"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "forge",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-ai-1.20.2",
+          "version": {
+            "requires": "0.0.9"
+          }
+        },
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-ui-1.20.2",
+          "version": {
+            "requires": "0.0.9"
+          }
+        },
+        {
+          "group": "net.minecraftforge",
+          "module": "forge",
+          "version": {
+            "requires": "1.20.2-48.0.49_mapped_official_1.20.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "numen-api-forge-1.20.2-0.0.10.jar",
+          "url": "numen-api-forge-1.20.2-0.0.10.jar",
+          "size": 1323485,
+          "sha512": "6c79f5e8ecd6d1f736a6b059077c098c0018af9ffbe05d8d7ab27187d973dc1858f408734346d1c12ba37291880fbaaeccab7723e9cad6ff30049db14db56f08",
+          "sha256": "13e0e2d7d78bacdc3870378ce4738d1565afd6981b9e0bf7e06a83bfa25f3a71",
+          "sha1": "39a648d929eeae1f8da6a7baeedbe34dba3d2f24",
+          "md5": "41043749289b4968db10affba724c7c8"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "forge",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-api-forge-1.20.2-0.0.10-sources.jar",
+          "url": "numen-api-forge-1.20.2-0.0.10-sources.jar",
+          "size": 1054588,
+          "sha512": "e4278b06e35e9285409a53448613db3c9b28317ecf656eafaa5af2a5fea5938b65ffd0bab378f0e1d8f1b9ea0b89c628f0f26afd6d6ba981974fae8b72e6036c",
+          "sha256": "7063cc76d642e468cc7aa41c2b86d6dfaa632fd99c5352745ed8f1825945466b",
+          "sha1": "954ae1b9c4bfc91bc247478143516d7ac78c107b",
+          "md5": "35a37d03c44297e4d76546cd236f2631"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "forge",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-api-forge-1.20.2-0.0.10-javadoc.jar",
+          "url": "numen-api-forge-1.20.2-0.0.10-javadoc.jar",
+          "size": 1516664,
+          "sha512": "b7dd42a1ef2ec5c9e3fcef999b211ce67fe4b834b2018b8f09191c2c639508db3ffe01d5817a3fc4fe6298a9508caee2d1c97a456b7a86f8fc280bf197b1227f",
+          "sha256": "513042d95c605a8a47db379f24c024ba561d47c4f004cf43a8668838d4fc3957",
+          "sha1": "1817fe76e57d9fa88e275167f39a4fd6364c74b5",
+          "md5": "e9126fdaa8dce9924be3985382fa737a"
+        }
+      ]
+    }
+  ]
+}
