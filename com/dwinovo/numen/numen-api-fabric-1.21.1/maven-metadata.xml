@@ -3,8 +3,8 @@
   <groupId>com.dwinovo.numen</groupId>
   <artifactId>numen-api-fabric-1.21.1</artifactId>
   <versioning>
-    <latest>0.0.9</latest>
-    <release>0.0.9</release>
+    <latest>0.0.2</latest>
+    <release>0.0.2</release>
     <versions>
       <version>0.0.2</version>
       <version>0.0.1-SNAPSHOT</version>
@@ -15,7 +15,6 @@
       <version>0.0.6-SNAPSHOT</version>
       <version>0.0.7-SNAPSHOT</version>
       <version>0.0.8-SNAPSHOT</version>
-      <version>0.0.9</version>
     </versions>
     <lastUpdated>20260826123652</lastUpdated>
   </versioning>
