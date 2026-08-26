@@ -1,0 +1,113 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.dwinovo.numen",
+    "module": "numen-forge-1.20.1",
+    "version": "0.1.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.7"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "forge",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "numen-forge-1.20.1-0.1.2.jar",
+          "url": "numen-forge-1.20.1-0.1.2.jar",
+          "size": 1291114,
+          "sha512": "3e96823ce4d977f1971aeba96ad7980848d4084fbadd728ef182b93096f678fcb1b6a70c1dfe4b3b7a4325f66d7c27f827f83a9ab9c3aaa6e2dffaaef15d34f1",
+          "sha256": "41e8537fcd66af10b09836eead79e3fc22a534a59054e4860b73e9939dcfa5d9",
+          "sha1": "0ed1afe9e47aa33a611de904d78e585ec8c66e10",
+          "md5": "03d816d79f72fa5e339b52cf8ade4e6a"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "forge",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.minecraftforge",
+          "module": "forge",
+          "version": {
+            "requires": "1.20.1-47.2.30_mapped_official_1.20.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "numen-forge-1.20.1-0.1.2.jar",
+          "url": "numen-forge-1.20.1-0.1.2.jar",
+          "size": 1291114,
+          "sha512": "3e96823ce4d977f1971aeba96ad7980848d4084fbadd728ef182b93096f678fcb1b6a70c1dfe4b3b7a4325f66d7c27f827f83a9ab9c3aaa6e2dffaaef15d34f1",
+          "sha256": "41e8537fcd66af10b09836eead79e3fc22a534a59054e4860b73e9939dcfa5d9",
+          "sha1": "0ed1afe9e47aa33a611de904d78e585ec8c66e10",
+          "md5": "03d816d79f72fa5e339b52cf8ade4e6a"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "forge",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-forge-1.20.1-0.1.2-sources.jar",
+          "url": "numen-forge-1.20.1-0.1.2-sources.jar",
+          "size": 1064568,
+          "sha512": "637e308601a4ac51d01510821c7f14978e7d3e3a1832aa1360f013ca0d8f6b25ea6c39c460c0caf55091b8b32c9c57f706748cdd70c28cf34ab38c0fd1b9f75e",
+          "sha256": "7385487a7925d825723279d86110710e160e6aa55b618a04094df26894214521",
+          "sha1": "529e02a0e069f7502d8be431104b09627ee38023",
+          "md5": "8f2b8e13edff55dcd447a51283c7b530"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "forge",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-forge-1.20.1-0.1.2-javadoc.jar",
+          "url": "numen-forge-1.20.1-0.1.2-javadoc.jar",
+          "size": 1485616,
+          "sha512": "a1cb6d66f4a84a71b05e57577360fadd6bdfde2d0c4a27a71b794c2f7069eb53b79cd356e2f209211d682b251dc501fa595fdaa5dbacf4e0d51562fc8192f4da",
+          "sha256": "002292a3ad8ddafdeb6dee74f1979b4fffc503126595f29aec1724803b8e48c8",
+          "sha1": "3b4a91e90640242759f9f1c1def28167cd04e781",
+          "md5": "11b4a3d2af8566b401ef028aa1e72174"
+        }
+      ]
+    }
+  ]
+}

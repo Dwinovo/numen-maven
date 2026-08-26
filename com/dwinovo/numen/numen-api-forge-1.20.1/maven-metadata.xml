@@ -3,7 +3,8 @@
   <groupId>com.dwinovo.numen</groupId>
   <artifactId>numen-api-forge-1.20.1</artifactId>
   <versioning>
-    <latest>0.0.8-SNAPSHOT</latest>
+    <latest>0.0.10</latest>
+    <release>0.0.10</release>
     <versions>
       <version>0.0.1-SNAPSHOT</version>
       <version>0.0.2-SNAPSHOT</version>
@@ -12,7 +13,8 @@
       <version>0.0.5-SNAPSHOT</version>
       <version>0.0.7-SNAPSHOT</version>
       <version>0.0.8-SNAPSHOT</version>
+      <version>0.0.10</version>
     </versions>
-    <lastUpdated>20260801042234</lastUpdated>
+    <lastUpdated>20260826174500</lastUpdated>
   </versioning>
 </metadata>
