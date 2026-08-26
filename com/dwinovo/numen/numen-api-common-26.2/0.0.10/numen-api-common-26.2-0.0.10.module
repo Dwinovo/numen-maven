@@ -27,14 +27,14 @@
       "dependencies": [
         {
           "group": "com.dwinovo.numen",
-          "module": "numen-ai",
+          "module": "numen-ai-26.2",
           "version": {
             "requires": "0.0.9"
           }
         },
         {
           "group": "com.dwinovo.numen",
-          "module": "numen-ui",
+          "module": "numen-ui-26.2",
           "version": {
             "requires": "0.0.9"
           }
@@ -65,14 +65,14 @@
       "dependencies": [
         {
           "group": "com.dwinovo.numen",
-          "module": "numen-ai",
+          "module": "numen-ai-26.2",
           "version": {
             "requires": "0.0.9"
           }
         },
         {
           "group": "com.dwinovo.numen",
-          "module": "numen-ui",
+          "module": "numen-ui-26.2",
           "version": {
             "requires": "0.0.9"
           }

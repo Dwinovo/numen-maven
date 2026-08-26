@@ -29,10 +29,10 @@
           "name": "numen-fabric-26.2-0.1.2.jar",
           "url": "numen-fabric-26.2-0.1.2.jar",
           "size": 2488840,
-          "sha512": "c032385e5d7b798caa9e3789f2dc609e96578913f6e8d9f1903f32366abbef659dc9ac368dddf218efd50710dd0cb5438463dee3290f04d68e59e73803095d3a",
-          "sha256": "5837687ceedeb26bc8cbeab4244d88c922abe4e3644bb601726eede3f9c67e7f",
-          "sha1": "c99a04d53e9cb5f2c57810d78f798dc44a1a677d",
-          "md5": "1bd0ae10712dd1e93dfa298693a32aaa"
+          "sha512": "536bbb0bd5d518dea12b5115a7ad2b16177ee4bfff174ffbcee0b89ea32214fe5853a11275c16c91f1491733a0f041a32351486da0c07c0e8622c00dab00e10f",
+          "sha256": "ff15f98e019836c023ad8fb1b55c66861d1767ee56342bdf0ca01b924585d4b3",
+          "sha1": "f15cb5e02460af34edf614e69e84184898b4ce5e",
+          "md5": "c22d457f879b0c575ad37afe88be19c3"
         }
       ]
     },
@@ -74,10 +74,10 @@
           "name": "numen-fabric-26.2-0.1.2.jar",
           "url": "numen-fabric-26.2-0.1.2.jar",
           "size": 2488840,
-          "sha512": "c032385e5d7b798caa9e3789f2dc609e96578913f6e8d9f1903f32366abbef659dc9ac368dddf218efd50710dd0cb5438463dee3290f04d68e59e73803095d3a",
-          "sha256": "5837687ceedeb26bc8cbeab4244d88c922abe4e3644bb601726eede3f9c67e7f",
-          "sha1": "c99a04d53e9cb5f2c57810d78f798dc44a1a677d",
-          "md5": "1bd0ae10712dd1e93dfa298693a32aaa"
+          "sha512": "536bbb0bd5d518dea12b5115a7ad2b16177ee4bfff174ffbcee0b89ea32214fe5853a11275c16c91f1491733a0f041a32351486da0c07c0e8622c00dab00e10f",
+          "sha256": "ff15f98e019836c023ad8fb1b55c66861d1767ee56342bdf0ca01b924585d4b3",
+          "sha1": "f15cb5e02460af34edf614e69e84184898b4ce5e",
+          "md5": "c22d457f879b0c575ad37afe88be19c3"
         }
       ]
     },

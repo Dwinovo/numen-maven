@@ -13,13 +13,13 @@
   <dependencies>
     <dependency>
       <groupId>com.dwinovo.numen</groupId>
-      <artifactId>numen-ai</artifactId>
+      <artifactId>numen-ai-26.2</artifactId>
       <version>0.0.9</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.dwinovo.numen</groupId>
-      <artifactId>numen-ui</artifactId>
+      <artifactId>numen-ui-26.2</artifactId>
       <version>0.0.9</version>
       <scope>compile</scope>
     </dependency>
