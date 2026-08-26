@@ -28,11 +28,11 @@
         {
           "name": "numen-fabric-1.20.6-0.1.2.jar",
           "url": "numen-fabric-1.20.6-0.1.2.jar",
-          "size": 2462354,
-          "sha512": "caa7239283f0735bd916c0c17c32a4d8e781fe1643c30a55ab2443a7c20bff9f6d2173a338abe2cec17a3f41f6a7e2490d1b2b947f40c1cf19ccbe21afdcdf70",
-          "sha256": "05c66ca30602c59907c69b004908caf32650aafd75208bfdda69aa602003dd63",
-          "sha1": "1db3c47a6c732a3598b63386542a1c3be438898c",
-          "md5": "73f0afe02e9307c88f68924d01189f65"
+          "size": 2462349,
+          "sha512": "ab4ca3243d7e18678768716b4bbab6d3cf5a4173f68eabe00d38e6eb296c5018c86bc9a3a7fb0a82487e45076962647b7abc2395d6bf2705d267a4ce82628403",
+          "sha256": "e09f14c0a6a4dadb1e59aacf68af7267b81ccd5d87c660d0002015230a92ee40",
+          "sha1": "1499b9d6494766d6ea2afd4d6d1bef478828fca2",
+          "md5": "7d59200f43f2980be0f1795e96bfd6f3"
         }
       ]
     },
@@ -73,11 +73,11 @@
         {
           "name": "numen-fabric-1.20.6-0.1.2.jar",
           "url": "numen-fabric-1.20.6-0.1.2.jar",
-          "size": 2462354,
-          "sha512": "caa7239283f0735bd916c0c17c32a4d8e781fe1643c30a55ab2443a7c20bff9f6d2173a338abe2cec17a3f41f6a7e2490d1b2b947f40c1cf19ccbe21afdcdf70",
-          "sha256": "05c66ca30602c59907c69b004908caf32650aafd75208bfdda69aa602003dd63",
-          "sha1": "1db3c47a6c732a3598b63386542a1c3be438898c",
-          "md5": "73f0afe02e9307c88f68924d01189f65"
+          "size": 2462349,
+          "sha512": "ab4ca3243d7e18678768716b4bbab6d3cf5a4173f68eabe00d38e6eb296c5018c86bc9a3a7fb0a82487e45076962647b7abc2395d6bf2705d267a4ce82628403",
+          "sha256": "e09f14c0a6a4dadb1e59aacf68af7267b81ccd5d87c660d0002015230a92ee40",
+          "sha1": "1499b9d6494766d6ea2afd4d6d1bef478828fca2",
+          "md5": "7d59200f43f2980be0f1795e96bfd6f3"
         }
       ]
     },
@@ -95,10 +95,10 @@
           "name": "numen-fabric-1.20.6-0.1.2-sources.jar",
           "url": "numen-fabric-1.20.6-0.1.2-sources.jar",
           "size": 1012821,
-          "sha512": "ab118c64f325d798b00bd2aad23fae3c9933701845b672f46c4d9148934c22ac417d1b822d33fa38e57d780bee2f6bc6c95d64aabde97ae240600a400ca0f982",
-          "sha256": "ef2473e2b34abc858307d0f669bc7bb2e8bb400c86cf5e695b0e9c0d969c1d75",
-          "sha1": "fe2c3704fad5af7fe64e56206a3efd46a6930aba",
-          "md5": "d89897964f6c6a2557e52d518af6ddb8"
+          "sha512": "601981a68d56325da64b7b444b1248c7db0e9692cc8c8d60b8ce8474b5d1afc1477a0a54ff5dc028b5cbe19531d7cce074b7f5825d94a85177500781183a9103",
+          "sha256": "cbd815b16adb61d683e52c09cb28813ddcf32a6652964e530d97cdbbd7263946",
+          "sha1": "8ab04ad76f5588acc1a8480817bc75fea8a64dc3",
+          "md5": "c7b72a73916d731af7e593d46f2bf4f9"
         }
       ]
     },

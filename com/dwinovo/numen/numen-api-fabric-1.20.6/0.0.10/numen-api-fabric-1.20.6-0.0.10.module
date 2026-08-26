@@ -27,14 +27,14 @@
       "dependencies": [
         {
           "group": "com.dwinovo.numen",
-          "module": "numen-ai",
+          "module": "numen-ai-1.20.6",
           "version": {
             "requires": "0.0.9"
           }
         },
         {
           "group": "com.dwinovo.numen",
-          "module": "numen-ui",
+          "module": "numen-ui-1.20.6",
           "version": {
             "requires": "0.0.9"
           }
@@ -44,11 +44,11 @@
         {
           "name": "numen-api-fabric-1.20.6-0.0.10.jar",
           "url": "numen-api-fabric-1.20.6-0.0.10.jar",
-          "size": 1319811,
-          "sha512": "2af596524db0c5307236b59e70703f423ac341b219262dc71d8ad8af16f2745ae39273c388b35fdc4dda6ddc0b3db6cf64d41293e27ce32cb6b2b8e5c99170bd",
-          "sha256": "1bfa9aee5f09e17bce3cd0c1d3b87b615e749c2a467cc9c75613b86c397adb7c",
-          "sha1": "be436c5e9f72ddf6797b990f600fd4e7ad4f2a90",
-          "md5": "f4dd63b87911a6605b33c34c32b80903"
+          "size": 1319809,
+          "sha512": "e1260f016b308278dc1514538e337ec9f98177b383527aad31e49e6a736387bc8ddb1a8d93215e1abbf2d164240cba3da8cc1b1e886a12f99523ba73ca3a99ff",
+          "sha256": "b370ccda0d1f84efad4507268b6e3beb2d885a9803abd31b17ce7e506de3b585",
+          "sha1": "7f679b3cc56cfdaf865442b95235f7ea6a1c7aca",
+          "md5": "212935f87f941952aadd486bb0ec50f2"
         }
       ]
     },
@@ -65,14 +65,14 @@
       "dependencies": [
         {
           "group": "com.dwinovo.numen",
-          "module": "numen-ai",
+          "module": "numen-ai-1.20.6",
           "version": {
             "requires": "0.0.9"
           }
         },
         {
           "group": "com.dwinovo.numen",
-          "module": "numen-ui",
+          "module": "numen-ui-1.20.6",
           "version": {
             "requires": "0.0.9"
           }
@@ -96,11 +96,11 @@
         {
           "name": "numen-api-fabric-1.20.6-0.0.10.jar",
           "url": "numen-api-fabric-1.20.6-0.0.10.jar",
-          "size": 1319811,
-          "sha512": "2af596524db0c5307236b59e70703f423ac341b219262dc71d8ad8af16f2745ae39273c388b35fdc4dda6ddc0b3db6cf64d41293e27ce32cb6b2b8e5c99170bd",
-          "sha256": "1bfa9aee5f09e17bce3cd0c1d3b87b615e749c2a467cc9c75613b86c397adb7c",
-          "sha1": "be436c5e9f72ddf6797b990f600fd4e7ad4f2a90",
-          "md5": "f4dd63b87911a6605b33c34c32b80903"
+          "size": 1319809,
+          "sha512": "e1260f016b308278dc1514538e337ec9f98177b383527aad31e49e6a736387bc8ddb1a8d93215e1abbf2d164240cba3da8cc1b1e886a12f99523ba73ca3a99ff",
+          "sha256": "b370ccda0d1f84efad4507268b6e3beb2d885a9803abd31b17ce7e506de3b585",
+          "sha1": "7f679b3cc56cfdaf865442b95235f7ea6a1c7aca",
+          "md5": "212935f87f941952aadd486bb0ec50f2"
         }
       ]
     },
@@ -117,11 +117,11 @@
         {
           "name": "numen-api-fabric-1.20.6-0.0.10-sources.jar",
           "url": "numen-api-fabric-1.20.6-0.0.10-sources.jar",
-          "size": 1058774,
-          "sha512": "0bea5f0a9985cdaea850d5ec8171e0e8594b79e83d9ab9a779cd3420d58ab876c2d8b62ac9a71b1b6611a98a97a40ef1e1f68be5a6ef0d66d20204ab39ae5265",
-          "sha256": "c1a2afab028754146a625e35fce5a85986032aac2370aa06295f1f34ab557e91",
-          "sha1": "7a1ae4da85d887181da7f55beb484c1b99d59119",
-          "md5": "87288adf3f1700c7016294860fe86b02"
+          "size": 1058772,
+          "sha512": "e0c12046e86dafa902bb4c7d41cdb47c305fc2239be5b5d1b311300c8c21bac15d3f7087c6a2a10900a1ba2a8f9481f2e02dabda06a3cbfa502d94dee45e4b94",
+          "sha256": "f80a4e527d6f97484b5585733cd99f9ac34094d51549849405474724e1b670fb",
+          "sha1": "4f8291b18a386d50782bf4f23f7e62ede2fcee92",
+          "md5": "686fb75caec7b0541f7a916f6a4dad23"
         }
       ]
     },
