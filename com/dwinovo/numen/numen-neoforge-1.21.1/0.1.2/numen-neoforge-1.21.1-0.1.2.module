@@ -28,11 +28,11 @@
         {
           "name": "numen-neoforge-1.21.1-0.1.2.jar",
           "url": "numen-neoforge-1.21.1-0.1.2.jar",
-          "size": 2567679,
-          "sha512": "0e46f8a31277d8ed8658deb333f451d3582d0fa55a6c81b9798c1658bba86cd3bddd0010ba83796e6e0909d566baccbafbd59ca987561c738d7ed3d417adc07f",
-          "sha256": "04c5dc2dbbce9e57131d1704880a2ab7ba1ece23f9d18efb39833ee060c81fa5",
-          "sha1": "62cd20e7bd7e54a9407eb6cef840bd87d3552497",
-          "md5": "bb69948b8ac1db399d604cb296ce8edf"
+          "size": 2567686,
+          "sha512": "c42911509abc03cd325d5e5fb1a2156911a378521de2fc116fe1bec4489424696cf288fe27a32242c93eff921330cf884107c1b7d01b0156ac7e1a0be6ccba02",
+          "sha256": "7cf184c26c5dd00b787a65455ae9e7ba1e98a5a558d5eac2640bfb6111751f3d",
+          "sha1": "524a3382edabf23a8f90faef678f9e554aaae028",
+          "md5": "c1bf18770c00cc0fed38b352752010ec"
         }
       ]
     },
@@ -51,7 +51,7 @@
           "group": "com.dwinovo.numen",
           "module": "numen-api-neoforge-1.21.1",
           "version": {
-            "requires": "0.0.9"
+            "requires": "0.0.10"
           }
         }
       ],
@@ -59,11 +59,11 @@
         {
           "name": "numen-neoforge-1.21.1-0.1.2.jar",
           "url": "numen-neoforge-1.21.1-0.1.2.jar",
-          "size": 2567679,
-          "sha512": "0e46f8a31277d8ed8658deb333f451d3582d0fa55a6c81b9798c1658bba86cd3bddd0010ba83796e6e0909d566baccbafbd59ca987561c738d7ed3d417adc07f",
-          "sha256": "04c5dc2dbbce9e57131d1704880a2ab7ba1ece23f9d18efb39833ee060c81fa5",
-          "sha1": "62cd20e7bd7e54a9407eb6cef840bd87d3552497",
-          "md5": "bb69948b8ac1db399d604cb296ce8edf"
+          "size": 2567686,
+          "sha512": "c42911509abc03cd325d5e5fb1a2156911a378521de2fc116fe1bec4489424696cf288fe27a32242c93eff921330cf884107c1b7d01b0156ac7e1a0be6ccba02",
+          "sha256": "7cf184c26c5dd00b787a65455ae9e7ba1e98a5a558d5eac2640bfb6111751f3d",
+          "sha1": "524a3382edabf23a8f90faef678f9e554aaae028",
+          "md5": "c1bf18770c00cc0fed38b352752010ec"
         }
       ]
     },
@@ -81,10 +81,10 @@
           "name": "numen-neoforge-1.21.1-0.1.2-sources.jar",
           "url": "numen-neoforge-1.21.1-0.1.2-sources.jar",
           "size": 1064617,
-          "sha512": "258d54fe6a0344e7bddde5e799b1c0c770773ad15c965f5d7880778527a9ad55fe6cf552b6050cdb7fe251ba10bc8c27fc18b78459dca529528983f54e18d3ab",
-          "sha256": "9d6487d8816de938a0cf2efe5b4a8c27962077a9017b1da8bc11ce444c9043ca",
-          "sha1": "0233eba31b0f8adfc59b7b8cc473922f652a6c3c",
-          "md5": "5790aea9c57f50e94e95ecce3da50d18"
+          "sha512": "1e6ef523ea89b07e91a73e2c4171f3c20a853850b16863ae757bd723c3efbd028ff4c63afa491f28ab9ea33f02c312f198fe1751b552fd06bdf3f2b56da777be",
+          "sha256": "3e36e05495c1fd509b2e6dc42c53625bf0604dee9e5b90e58afae42ae0fe0697",
+          "sha1": "6e12a8cb0cb088744ea7c2f7646f55fa295741f8",
+          "md5": "1222a722244643ce3df5898b68637360"
         }
       ]
     },
