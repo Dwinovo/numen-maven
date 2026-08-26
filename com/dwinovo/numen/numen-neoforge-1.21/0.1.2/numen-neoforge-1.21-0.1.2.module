@@ -1,0 +1,113 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.dwinovo.numen",
+    "module": "numen-neoforge-1.21",
+    "version": "0.1.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.2.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "numen-neoforge-1.21-0.1.2.jar",
+          "url": "numen-neoforge-1.21-0.1.2.jar",
+          "size": 2553183,
+          "sha512": "577cd7620b6bcd4c6600869eb8811d60e78839a43769ad5a7294dde2ca1e52494d546a9be4e813b8436ad75b9f44b9898dd072983f2cd4c9b0b6f75f37f73a92",
+          "sha256": "0844abde304c8e6821d8e07822e9e0f7e2b85bf2ead988759a0a824e9b841e09",
+          "sha1": "02745dd1c8d7f50a8893d6a0eebe0679c7abbc0b",
+          "md5": "33f585d81663f3cacc370856c30cbc88"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-api-neoforge-1.21",
+          "version": {
+            "requires": "0.0.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "numen-neoforge-1.21-0.1.2.jar",
+          "url": "numen-neoforge-1.21-0.1.2.jar",
+          "size": 2553183,
+          "sha512": "577cd7620b6bcd4c6600869eb8811d60e78839a43769ad5a7294dde2ca1e52494d546a9be4e813b8436ad75b9f44b9898dd072983f2cd4c9b0b6f75f37f73a92",
+          "sha256": "0844abde304c8e6821d8e07822e9e0f7e2b85bf2ead988759a0a824e9b841e09",
+          "sha1": "02745dd1c8d7f50a8893d6a0eebe0679c7abbc0b",
+          "md5": "33f585d81663f3cacc370856c30cbc88"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-neoforge-1.21-0.1.2-sources.jar",
+          "url": "numen-neoforge-1.21-0.1.2-sources.jar",
+          "size": 1064615,
+          "sha512": "5aedaa725c2bf3634b086ae08f7bd4d6d040e4627f843438d13e4da6cb4bbacb2c4150b9b82570a7c4e3f68919fe7ef5776c2114c136c6fde220e95ac81da63c",
+          "sha256": "9f88d580d32cf04637a7af14e74ae90f965124357e0ce18dfa2ee2588dca7325",
+          "sha1": "605330a635a0d63ff1e565ac91f4fb6cac519004",
+          "md5": "add920034778ce40771b5d275bc418a2"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-neoforge-1.21-0.1.2-javadoc.jar",
+          "url": "numen-neoforge-1.21-0.1.2-javadoc.jar",
+          "size": 1524634,
+          "sha512": "2733785eaa1fb5187741a7812d5fd0850de14e9d35cd20f74ff48c258334b4b68375d1b9e605693c1531ca29b704a0834077573bacbfc6e562affa4d0a76f79e",
+          "sha256": "620176c39e4a84e84783a352f124a074511b43df79cbed8fe1d08e1ee13ed9a7",
+          "sha1": "ade75b93dfdce8a93d2e5afb71a99bc7fb6c426a",
+          "md5": "fd07509de54a296f08d5c358f5094e3e"
+        }
+      ]
+    }
+  ]
+}
