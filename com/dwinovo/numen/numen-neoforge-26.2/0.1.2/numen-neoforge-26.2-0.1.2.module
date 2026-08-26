@@ -1,0 +1,113 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.dwinovo.numen",
+    "module": "numen-neoforge-26.2",
+    "version": "0.1.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.2.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "numen-neoforge-26.2-0.1.2.jar",
+          "url": "numen-neoforge-26.2-0.1.2.jar",
+          "size": 2568795,
+          "sha512": "482250d175b1c26f21a195283ef81c9aeb5dae0351ad4bae7c3ed0987b5135b9dd242358588efca3995efa60d92fd423e36567685f2012b5bbd9198a444bf664",
+          "sha256": "f60d6c8b43d12aed3f9e999e850f949fccc5fcbb502055c65285683b2842143a",
+          "sha1": "fb2310f7b9704bf4fc69b97081cf87b06ee5fa18",
+          "md5": "2919d5b83ebd69b088b1cedf761b4e21"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-api-neoforge-26.2",
+          "version": {
+            "requires": "0.0.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "numen-neoforge-26.2-0.1.2.jar",
+          "url": "numen-neoforge-26.2-0.1.2.jar",
+          "size": 2568795,
+          "sha512": "482250d175b1c26f21a195283ef81c9aeb5dae0351ad4bae7c3ed0987b5135b9dd242358588efca3995efa60d92fd423e36567685f2012b5bbd9198a444bf664",
+          "sha256": "f60d6c8b43d12aed3f9e999e850f949fccc5fcbb502055c65285683b2842143a",
+          "sha1": "fb2310f7b9704bf4fc69b97081cf87b06ee5fa18",
+          "md5": "2919d5b83ebd69b088b1cedf761b4e21"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-neoforge-26.2-0.1.2-sources.jar",
+          "url": "numen-neoforge-26.2-0.1.2-sources.jar",
+          "size": 1075830,
+          "sha512": "7158d0c92bb0a44d1179e3a4c6d137b61554e3c5f162eadfa0a9e32a19034d9a6dbe7ac4068026e49d30c98c035f3a12febda2fc0b98380db5beb78ca8ccb02b",
+          "sha256": "c3a25244f8ece55b30f1234ae6635b6a1a4c3c446d4eed2e1562d9b2a204e8a5",
+          "sha1": "6e8b58d0628dd8bb299ecdcaa6e6b945901ee3f0",
+          "md5": "9c71e4cb60ee13ec413a244db9a46b31"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-neoforge-26.2-0.1.2-javadoc.jar",
+          "url": "numen-neoforge-26.2-0.1.2-javadoc.jar",
+          "size": 5665832,
+          "sha512": "ab1d1159ead136f6c748edd6557facda6bdfc0998ed7e6672d2927caa8ca3d89a8fcf2bf43d9300e1903f093fe37390c4e087bf600aa8aa55a4009c6554e49ce",
+          "sha256": "5493b886d347db998b5d0f2b08724efc4647135e154b0080db9b5944fb87d770",
+          "sha1": "a67df0c4e83bde97ffa96780fd0143c8b9d34f01",
+          "md5": "7298ef6149b52ed095d323d2970bc7ad"
+        }
+      ]
+    }
+  ]
+}
