@@ -44,11 +44,11 @@
         {
           "name": "numen-api-forge-1.20.2-0.1.2.jar",
           "url": "numen-api-forge-1.20.2-0.1.2.jar",
-          "size": 1323482,
-          "sha512": "5490ff38d0626f5433ccd342310961b22e3fcb0d760d5afd0c9e2f51331ce09886c16547ae72165a396a6d32652a02193c30e8d935fac2f3c1725d9fa3ef00fb",
-          "sha256": "c093f2fb5ab961a7ae2423f0f2866816d995189cad4887b9a7a57304df78e7e2",
-          "sha1": "007f466696671d3cea51fd01c6f0e8ab915e9036",
-          "md5": "71b1dccf9ba7befe41e4e1e3685d5035"
+          "size": 1323481,
+          "sha512": "bd6a16f7bd26a1a3291f272aa70aea5ad6d29cdea255face0d7a850b0ecabca78841b5546cc798d13e8de69d2ff707ef1d9b8cd27604a274f668881ed6dd4645",
+          "sha256": "a8c512a59e365111e3223405766446787403fc49020e8777948ac6bd1d785e5c",
+          "sha1": "a9ef08c805939ea15119bf4ff708779be6dd6343",
+          "md5": "b99ee751120dbc4a93cac805e89211d4"
         }
       ]
     },
@@ -89,11 +89,11 @@
         {
           "name": "numen-api-forge-1.20.2-0.1.2.jar",
           "url": "numen-api-forge-1.20.2-0.1.2.jar",
-          "size": 1323482,
-          "sha512": "5490ff38d0626f5433ccd342310961b22e3fcb0d760d5afd0c9e2f51331ce09886c16547ae72165a396a6d32652a02193c30e8d935fac2f3c1725d9fa3ef00fb",
-          "sha256": "c093f2fb5ab961a7ae2423f0f2866816d995189cad4887b9a7a57304df78e7e2",
-          "sha1": "007f466696671d3cea51fd01c6f0e8ab915e9036",
-          "md5": "71b1dccf9ba7befe41e4e1e3685d5035"
+          "size": 1323481,
+          "sha512": "bd6a16f7bd26a1a3291f272aa70aea5ad6d29cdea255face0d7a850b0ecabca78841b5546cc798d13e8de69d2ff707ef1d9b8cd27604a274f668881ed6dd4645",
+          "sha256": "a8c512a59e365111e3223405766446787403fc49020e8777948ac6bd1d785e5c",
+          "sha1": "a9ef08c805939ea15119bf4ff708779be6dd6343",
+          "md5": "b99ee751120dbc4a93cac805e89211d4"
         }
       ]
     },
@@ -110,11 +110,11 @@
         {
           "name": "numen-api-forge-1.20.2-0.1.2-sources.jar",
           "url": "numen-api-forge-1.20.2-0.1.2-sources.jar",
-          "size": 1054589,
-          "sha512": "67d473787c74aa1c54bf62e3a94f41571269956c0b9c42780bbdf85d407ddc5116ae8aee9600038b992f3c5e4a34f1315571ef87b648da30630b81058d3d1d0d",
-          "sha256": "ef81693ba0c5fcf7bc33b197b5f55d302f82dc125f954700f07c4054e32c919a",
-          "sha1": "9894cb1de442c9fab4eb2bb8ef9819304eab3ce0",
-          "md5": "82ebd0ceb31fb21941112b5f6345b05f"
+          "size": 1054588,
+          "sha512": "ba54279a79936055285cf45f4b9cb6476fad787230fb659a6ca884a30c19058176367fae33954ad1b62dffb215744ca019330c9fd816789c2c757598bff6d91c",
+          "sha256": "56e31f57fa5a6c4d1a9f60ab6cc83e842af94aa3b24f5381bf7eb019e883eb49",
+          "sha1": "2431e4ec6bf257285596858bda89b6f5e14d00ce",
+          "md5": "7182d2e110ea6b20a86bf40af14bcfa8"
         }
       ]
     },
@@ -132,10 +132,10 @@
           "name": "numen-api-forge-1.20.2-0.1.2-javadoc.jar",
           "url": "numen-api-forge-1.20.2-0.1.2-javadoc.jar",
           "size": 1516274,
-          "sha512": "cf608d7cd9aaa7e8d03dc5f49dc2746126bc24e83c1ca0a72203fbc36c024258d0848f5429612a31e9164992ac75ccf21295f6747305980d3526f68c4a1fd4dd",
-          "sha256": "669aee774b45c97ae44f3f65b6f09fda76fd313910a4f27446a77869ff0de4f2",
-          "sha1": "cabe1847ad672854fa60d14c07192e21bdd3d064",
-          "md5": "fd183828a26cec5efa2c83be78141eaf"
+          "sha512": "5c34aee1c1d4c34329ccc76c3252e367ec3f1baf154f4279d0903d932ba78b81b460aaecceb770e16b97d0cf4fffdbb509c693e925c726eb28d644129bb3df69",
+          "sha256": "f9d781c4f7b00bf881d22e203586aaf1be450d8d66f0b4847b4c5f8910f9dcb9",
+          "sha1": "f1beebdb3f996abbba34579e16120e1481018587",
+          "md5": "d4c7d942589440369420719ea8420515"
         }
       ]
     }
