@@ -44,11 +44,11 @@
         {
           "name": "numen-api-neoforge-1.21.4-0.1.2.jar",
           "url": "numen-api-neoforge-1.21.4-0.1.2.jar",
-          "size": 1323690,
-          "sha512": "679509ba631c2a19146191a9a78727f5df56adacf87acd03f1f18447eef0189fb06bd6bcfa5d448d41c24ee1d16d776954404695c324d49a8cbd9288611ee1fb",
-          "sha256": "f8831d64e4f50fc44e6e6774ead645ff8d9462d4ea062946fb3a2a420289fa55",
-          "sha1": "8474b5644ceb5e4022259e533523ad7ae39257a1",
-          "md5": "b4ec63cdf15a26426fc2f103fc23fefe"
+          "size": 1323691,
+          "sha512": "85e0725f52140f883a57fb3113384b8063f1cbca8f492f0fefce53fff9b769ae389604cc97cf70333c9814a8ec061ddbdea8c7c8911fc7b1dd12eac82eba88c7",
+          "sha256": "4bb91c9417be92612a603cbecee8185d021637603212559adb2c57bc3a81bac9",
+          "sha1": "84b909979580e31cc0e464bfe0062181fe0e6a91",
+          "md5": "4aeefee4c424ca8701524e135ab459ad"
         }
       ]
     },
@@ -82,11 +82,11 @@
         {
           "name": "numen-api-neoforge-1.21.4-0.1.2.jar",
           "url": "numen-api-neoforge-1.21.4-0.1.2.jar",
-          "size": 1323690,
-          "sha512": "679509ba631c2a19146191a9a78727f5df56adacf87acd03f1f18447eef0189fb06bd6bcfa5d448d41c24ee1d16d776954404695c324d49a8cbd9288611ee1fb",
-          "sha256": "f8831d64e4f50fc44e6e6774ead645ff8d9462d4ea062946fb3a2a420289fa55",
-          "sha1": "8474b5644ceb5e4022259e533523ad7ae39257a1",
-          "md5": "b4ec63cdf15a26426fc2f103fc23fefe"
+          "size": 1323691,
+          "sha512": "85e0725f52140f883a57fb3113384b8063f1cbca8f492f0fefce53fff9b769ae389604cc97cf70333c9814a8ec061ddbdea8c7c8911fc7b1dd12eac82eba88c7",
+          "sha256": "4bb91c9417be92612a603cbecee8185d021637603212559adb2c57bc3a81bac9",
+          "sha1": "84b909979580e31cc0e464bfe0062181fe0e6a91",
+          "md5": "4aeefee4c424ca8701524e135ab459ad"
         }
       ]
     },
@@ -103,11 +103,11 @@
         {
           "name": "numen-api-neoforge-1.21.4-0.1.2-sources.jar",
           "url": "numen-api-neoforge-1.21.4-0.1.2-sources.jar",
-          "size": 1055369,
-          "sha512": "f848f99cfd8c2ebcaef92683a45c9420c19042cacaab62bb77553666acfac4699a7a723a6d465be5654476a9b447a3dbdf00cafd71633ba504402c72fa4447d6",
-          "sha256": "31d424c6d151c2d172ae8383cae484579cb84b9e87f344152539a2c7e5b25704",
-          "sha1": "ab9add89a0833c4eb8818b6f6eadada8d00fb1f6",
-          "md5": "58809fc1b6bfac186888bd8c3b32f37d"
+          "size": 1055370,
+          "sha512": "7c696d13f181b433b2badfea6adbb7d8d6c5b9be6e9591733905ca69b7ebe5298fbddb1306c1e1a059927f736ae44687227a624174ccea81170242f84bb215ab",
+          "sha256": "506a86d00e8addd8d55ecf26c760b2ec77031c9d6e0e2448a9471429f3e02622",
+          "sha1": "ba707597a50e1dcc2e8696a6db6e99d077d7ff5d",
+          "md5": "87ec7b93a6d5842577bfffc4bad4981d"
         }
       ]
     },
