@@ -24,15 +24,24 @@
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-api"
       },
+      "dependencies": [
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-api-fabric-1.20.6",
+          "version": {
+            "requires": "0.1.2"
+          }
+        }
+      ],
       "files": [
         {
           "name": "numen-fabric-1.20.6-0.1.2.jar",
           "url": "numen-fabric-1.20.6-0.1.2.jar",
-          "size": 2462349,
-          "sha512": "ab4ca3243d7e18678768716b4bbab6d3cf5a4173f68eabe00d38e6eb296c5018c86bc9a3a7fb0a82487e45076962647b7abc2395d6bf2705d267a4ce82628403",
-          "sha256": "e09f14c0a6a4dadb1e59aacf68af7267b81ccd5d87c660d0002015230a92ee40",
-          "sha1": "1499b9d6494766d6ea2afd4d6d1bef478828fca2",
-          "md5": "7d59200f43f2980be0f1795e96bfd6f3"
+          "size": 2462352,
+          "sha512": "dd7907b92486cb93b2e6f48a9d8685df0ff0c6e657098ebe4a817949b3781f3bb298ac4cc085d762a8191201ec4bb46a1f5d1bd4ca6e06cdcf6cfd8122cee74e",
+          "sha256": "40ce98d471cdfe77786650360137351e1cd4cd787bb2d1537515a0cb9e3b1d7e",
+          "sha1": "5b1aa070de4702fd548b8c7f57785d7670564cfb",
+          "md5": "f21280e6cd6552b428a417684456b99a"
         }
       ]
     },
@@ -51,7 +60,7 @@
           "group": "com.dwinovo.numen",
           "module": "numen-api-fabric-1.20.6",
           "version": {
-            "requires": "0.0.10"
+            "requires": "0.1.2"
           }
         },
         {
@@ -73,11 +82,11 @@
         {
           "name": "numen-fabric-1.20.6-0.1.2.jar",
           "url": "numen-fabric-1.20.6-0.1.2.jar",
-          "size": 2462349,
-          "sha512": "ab4ca3243d7e18678768716b4bbab6d3cf5a4173f68eabe00d38e6eb296c5018c86bc9a3a7fb0a82487e45076962647b7abc2395d6bf2705d267a4ce82628403",
-          "sha256": "e09f14c0a6a4dadb1e59aacf68af7267b81ccd5d87c660d0002015230a92ee40",
-          "sha1": "1499b9d6494766d6ea2afd4d6d1bef478828fca2",
-          "md5": "7d59200f43f2980be0f1795e96bfd6f3"
+          "size": 2462352,
+          "sha512": "dd7907b92486cb93b2e6f48a9d8685df0ff0c6e657098ebe4a817949b3781f3bb298ac4cc085d762a8191201ec4bb46a1f5d1bd4ca6e06cdcf6cfd8122cee74e",
+          "sha256": "40ce98d471cdfe77786650360137351e1cd4cd787bb2d1537515a0cb9e3b1d7e",
+          "sha1": "5b1aa070de4702fd548b8c7f57785d7670564cfb",
+          "md5": "f21280e6cd6552b428a417684456b99a"
         }
       ]
     },
@@ -94,11 +103,11 @@
         {
           "name": "numen-fabric-1.20.6-0.1.2-sources.jar",
           "url": "numen-fabric-1.20.6-0.1.2-sources.jar",
-          "size": 1012821,
-          "sha512": "601981a68d56325da64b7b444b1248c7db0e9692cc8c8d60b8ce8474b5d1afc1477a0a54ff5dc028b5cbe19531d7cce074b7f5825d94a85177500781183a9103",
-          "sha256": "cbd815b16adb61d683e52c09cb28813ddcf32a6652964e530d97cdbbd7263946",
-          "sha1": "8ab04ad76f5588acc1a8480817bc75fea8a64dc3",
-          "md5": "c7b72a73916d731af7e593d46f2bf4f9"
+          "size": 1012823,
+          "sha512": "f657fe056a6c096b0ad767d4952d91d162507f196ba50c381690dee5b29dc19cc1e776920bd820ba9a4866819a6c5ead59e7a6f4da84414b593a5b00fb1b4df6",
+          "sha256": "45fb2f46aa983ad67d8f34e2fc066f661f9a69cd29f8f22893a2d4f0491b67c2",
+          "sha1": "2c762e42c06cc25cc509efe6e91cc5a11de32416",
+          "md5": "1a822c6849874ec4fa4267edaa1cd0cb"
         }
       ]
     },
