@@ -24,15 +24,24 @@
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-api"
       },
+      "dependencies": [
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-api-fabric-1.21.4",
+          "version": {
+            "requires": "0.1.2"
+          }
+        }
+      ],
       "files": [
         {
           "name": "numen-fabric-1.21.4-0.1.2.jar",
           "url": "numen-fabric-1.21.4-0.1.2.jar",
-          "size": 2464480,
-          "sha512": "b7c2e97af542816e3ac40a562fbd15e5b04d41c6f816d459a45fe1f36284112369d0829743dca007fa75ba7e87165ddce17685d0fe4c5521a14e7c3f52b087d1",
-          "sha256": "83f6dbe9dd1cabe61bdd5b4fe011e479d3b3efb3d685150e8969daf6a8349227",
-          "sha1": "9ed4620d4e4821a4cea2bc16ae1ecf07215dce5f",
-          "md5": "e30fc77d2c4cfdbf5d754055d404634e"
+          "size": 2464475,
+          "sha512": "73e1a0c44e51393cde908a0c2dd3e1881647b9c7060e33d6b271c15708c52cc76d3f5acbb1b45e3e6a3302af4689394aa45aeb459550b3fc3c165f6f13868756",
+          "sha256": "7cba0035bb4ca8636b8c6c0d954adc558d555781cbc832c0da01a9820ac4a4c2",
+          "sha1": "1823bc1d5c5f64796b1747e5fadeca593b051ba2",
+          "md5": "08c891bc7fb0ff55a1c9f27ffbdc375e"
         }
       ]
     },
@@ -51,7 +60,7 @@
           "group": "com.dwinovo.numen",
           "module": "numen-api-fabric-1.21.4",
           "version": {
-            "requires": "0.0.10"
+            "requires": "0.1.2"
           }
         },
         {
@@ -73,11 +82,11 @@
         {
           "name": "numen-fabric-1.21.4-0.1.2.jar",
           "url": "numen-fabric-1.21.4-0.1.2.jar",
-          "size": 2464480,
-          "sha512": "b7c2e97af542816e3ac40a562fbd15e5b04d41c6f816d459a45fe1f36284112369d0829743dca007fa75ba7e87165ddce17685d0fe4c5521a14e7c3f52b087d1",
-          "sha256": "83f6dbe9dd1cabe61bdd5b4fe011e479d3b3efb3d685150e8969daf6a8349227",
-          "sha1": "9ed4620d4e4821a4cea2bc16ae1ecf07215dce5f",
-          "md5": "e30fc77d2c4cfdbf5d754055d404634e"
+          "size": 2464475,
+          "sha512": "73e1a0c44e51393cde908a0c2dd3e1881647b9c7060e33d6b271c15708c52cc76d3f5acbb1b45e3e6a3302af4689394aa45aeb459550b3fc3c165f6f13868756",
+          "sha256": "7cba0035bb4ca8636b8c6c0d954adc558d555781cbc832c0da01a9820ac4a4c2",
+          "sha1": "1823bc1d5c5f64796b1747e5fadeca593b051ba2",
+          "md5": "08c891bc7fb0ff55a1c9f27ffbdc375e"
         }
       ]
     },
