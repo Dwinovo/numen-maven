@@ -12,6 +12,12 @@
   <version>0.1.2</version>
   <dependencies>
     <dependency>
+      <groupId>com.dwinovo.numen</groupId>
+      <artifactId>numen-api-fabric-26.2</artifactId>
+      <version>0.1.2</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>net.fabricmc</groupId>
       <artifactId>fabric-loader</artifactId>
       <version>0.19.3</version>
@@ -21,12 +27,6 @@
       <groupId>net.fabricmc.fabric-api</groupId>
       <artifactId>fabric-api</artifactId>
       <version>0.158.0+26.2</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.dwinovo.numen</groupId>
-      <artifactId>numen-api-fabric-26.2</artifactId>
-      <version>0.0.10</version>
       <scope>runtime</scope>
     </dependency>
   </dependencies>
