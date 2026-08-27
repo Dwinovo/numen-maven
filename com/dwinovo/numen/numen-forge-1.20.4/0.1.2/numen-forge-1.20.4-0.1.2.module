@@ -24,15 +24,24 @@
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-api"
       },
+      "dependencies": [
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-api-forge-1.20.4",
+          "version": {
+            "requires": "0.1.2"
+          }
+        }
+      ],
       "files": [
         {
           "name": "numen-forge-1.20.4-0.1.2.jar",
           "url": "numen-forge-1.20.4-0.1.2.jar",
           "size": 1291915,
-          "sha512": "84f82e4c45053925f3b0a87d12e9124bd363fbc8ac9e233ad5fd71022ba213cab3c3487c37051043fa9630e2c71c459f54a9ccacafe36f1cb8f783ed387999f8",
-          "sha256": "3611fb3485b8a27675906232949c42e7c7cef3c3e6d66b97916e99eff4acd333",
-          "sha1": "516e72c3153511ca863bf343b9d4934a5cd39f9a",
-          "md5": "84abaae6383e81b21ec4c0a1e9fac268"
+          "sha512": "1e6abcffd5cabefdaf4d187d7aaa9f56b277a57fc0a31053b094a77c37f93613ca770b3a311a01eff74f8dc668b706698181dd2adb0b5a681bc4633eb04f60e7",
+          "sha256": "79c6decdaf7f773fefd2ff94b2fabdcc423a2acad4de1027b021a0d15196697b",
+          "sha1": "451c0477711d0ebc04eef8b4e916d413956c179a",
+          "md5": "91c9efd010e57c5543026850b68baff7"
         }
       ]
     },
@@ -60,10 +69,10 @@
           "name": "numen-forge-1.20.4-0.1.2.jar",
           "url": "numen-forge-1.20.4-0.1.2.jar",
           "size": 1291915,
-          "sha512": "84f82e4c45053925f3b0a87d12e9124bd363fbc8ac9e233ad5fd71022ba213cab3c3487c37051043fa9630e2c71c459f54a9ccacafe36f1cb8f783ed387999f8",
-          "sha256": "3611fb3485b8a27675906232949c42e7c7cef3c3e6d66b97916e99eff4acd333",
-          "sha1": "516e72c3153511ca863bf343b9d4934a5cd39f9a",
-          "md5": "84abaae6383e81b21ec4c0a1e9fac268"
+          "sha512": "1e6abcffd5cabefdaf4d187d7aaa9f56b277a57fc0a31053b094a77c37f93613ca770b3a311a01eff74f8dc668b706698181dd2adb0b5a681bc4633eb04f60e7",
+          "sha256": "79c6decdaf7f773fefd2ff94b2fabdcc423a2acad4de1027b021a0d15196697b",
+          "sha1": "451c0477711d0ebc04eef8b4e916d413956c179a",
+          "md5": "91c9efd010e57c5543026850b68baff7"
         }
       ]
     },
@@ -81,10 +90,10 @@
           "name": "numen-forge-1.20.4-0.1.2-sources.jar",
           "url": "numen-forge-1.20.4-0.1.2-sources.jar",
           "size": 1065661,
-          "sha512": "4000e366dd6a4d9e3271b00089e37e1ed990ca78d9327ba279e33a242861a3641ff023d8c7df55867827b8a7f376482a639cbb49f3530034aa76a5269e5ca130",
-          "sha256": "806da40dd1efbce53e00d6dbdab41427f6d90c1d567d15f9f19f9ab8dededf02",
-          "sha1": "5135d8854471f3da340a89a078e02b8b6a1ca170",
-          "md5": "3169e3df70169df229da6c50245f693f"
+          "sha512": "316822999c5b89dc5b07b4f6e6b94fed123ea1655f8157dbc10d59a609aa10e8f44d640b1c1a035535d628cd52e2126a8a238de536867a2a95b23a33113684b6",
+          "sha256": "e0f529824f6f3a24b19e1bebcfea04d1e08593c4873b78d0375512031e4f5572",
+          "sha1": "1599b540231a9dba248a036103e641410d2be948",
+          "md5": "406a78a7a9d6a4c1304b421550f44445"
         }
       ]
     },
@@ -102,10 +111,10 @@
           "name": "numen-forge-1.20.4-0.1.2-javadoc.jar",
           "url": "numen-forge-1.20.4-0.1.2-javadoc.jar",
           "size": 1486157,
-          "sha512": "bc695bbc68bceafae1a1e63b0a44a6cb6053e27942f3c2f89337819e987f43136fdd578189f013a9a3a29bfb3f99ef5830a6afa025183d750900c02edafced5b",
-          "sha256": "db908606c9e99905ff56cf3c6ca29db76059c5d4b55c5d9d3ae2dd7320cd19ed",
-          "sha1": "f3a5573d3de9a5f7f5d31906a5eca66c3940b4c2",
-          "md5": "b364c5dda1996719e9846bebef46f5ea"
+          "sha512": "196148b85178f5e2b0b4a85f6ae4c479eaf51ba1b54411bce842f26e45f0ac35fa5f502e0c05f38021917eb17d72fdc2110c8acbe631673d8d80fc389b832b1b",
+          "sha256": "958b805ce114c82b5f16614512111774ffe2420511b32cc6c42f79bc52da11af",
+          "sha1": "f0f15fe068deac098c366798726099ecdf547c99",
+          "md5": "5c95484eaf55c108086c4cd4bf5c5032"
         }
       ]
     }

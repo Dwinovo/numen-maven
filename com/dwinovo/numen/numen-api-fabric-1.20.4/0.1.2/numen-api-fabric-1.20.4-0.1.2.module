@@ -1,0 +1,150 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.dwinovo.numen",
+    "module": "numen-api-fabric-1.20.4",
+    "version": "0.1.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.7"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "fabric",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-ai-1.20.4",
+          "version": {
+            "requires": "0.1.2"
+          }
+        },
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-ui-1.20.4",
+          "version": {
+            "requires": "0.1.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "numen-api-fabric-1.20.4-0.1.2.jar",
+          "url": "numen-api-fabric-1.20.4-0.1.2.jar",
+          "size": 1318542,
+          "sha512": "02694e1b06c701cf93820c6a427b46c8c51983f9c49a9c00ade1d5476b29ed9930829b58a574dd7f619000e61d6465a20c2e7db8e9a33a2f6a3eb86844c0a933",
+          "sha256": "cb7bec26d29e011fc0892b5daef28c71d0f5ba710d870454c97f236f84d5d426",
+          "sha1": "bc6eaa7a37043941f141bbb42ee0f8487f937295",
+          "md5": "a90a6d964fdb48bad416313a0429d676"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "fabric",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-ai-1.20.4",
+          "version": {
+            "requires": "0.1.2"
+          }
+        },
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-ui-1.20.4",
+          "version": {
+            "requires": "0.1.2"
+          }
+        },
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.15.3"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.92.1+1.20.4"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "numen-api-fabric-1.20.4-0.1.2.jar",
+          "url": "numen-api-fabric-1.20.4-0.1.2.jar",
+          "size": 1318542,
+          "sha512": "02694e1b06c701cf93820c6a427b46c8c51983f9c49a9c00ade1d5476b29ed9930829b58a574dd7f619000e61d6465a20c2e7db8e9a33a2f6a3eb86844c0a933",
+          "sha256": "cb7bec26d29e011fc0892b5daef28c71d0f5ba710d870454c97f236f84d5d426",
+          "sha1": "bc6eaa7a37043941f141bbb42ee0f8487f937295",
+          "md5": "a90a6d964fdb48bad416313a0429d676"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "fabric",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-api-fabric-1.20.4-0.1.2-sources.jar",
+          "url": "numen-api-fabric-1.20.4-0.1.2-sources.jar",
+          "size": 1068754,
+          "sha512": "00e4b206a286952966c40a14319fd153010b8ccb155041e89b9bc5bee54b87f3271025b72fe47e2ff76b1eed5b53f547ee8c1b68be389aa4ccfa92995df71773",
+          "sha256": "eb778c94b38a6123582fa47c4659d01680e9a918be7d9e40fc8d111e81147917",
+          "sha1": "4fae39003a94e7488fe02fe42b0a63ac957e1849",
+          "md5": "c9035b609adcaf9ad17188d7a6a2f195"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "fabric",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-api-fabric-1.20.4-0.1.2-javadoc.jar",
+          "url": "numen-api-fabric-1.20.4-0.1.2-javadoc.jar",
+          "size": 1518766,
+          "sha512": "e6172a13d5eec49243587b95a9aaf7269196bed6ca70d037b0538c4a491885614decebe8a44313b2a4226d462ab137e4fca27dfed9a05e7d3b315d01da0578fa",
+          "sha256": "2f87201e64fd5c7bf4f928a684fd66487081a611212122b4f206e3bf1089b9f5",
+          "sha1": "1bdce86af27a260b72d2ca6b9e6a6ad8b0954243",
+          "md5": "0d3b2ca40ca92ce85df21d0dc732db67"
+        }
+      ]
+    }
+  ]
+}
