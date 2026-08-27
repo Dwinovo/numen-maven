@@ -24,15 +24,24 @@
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-api"
       },
+      "dependencies": [
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-api-fabric-1.21.11",
+          "version": {
+            "requires": "0.1.2"
+          }
+        }
+      ],
       "files": [
         {
           "name": "numen-fabric-1.21.11-0.1.2.jar",
           "url": "numen-fabric-1.21.11-0.1.2.jar",
-          "size": 2469345,
-          "sha512": "bf1bbcdf788a4d9886bb38e1f5a685d3ed85144977a7a3fe9b446ab282957f28fb24a2cb5909659de008e343851f2eb6e31bc050d9a5411140d760181630bfc5",
-          "sha256": "9f2cd3454186d3a8f7882dbe9f2265300f3d845d6adea52b81bb6d2acdad1f82",
-          "sha1": "9dec7e5691f1e631288c9b8b3f147387ca50fdd0",
-          "md5": "aebcbc3e2eae6037f59f8cb787e52720"
+          "size": 2469335,
+          "sha512": "0c40ec617a11112ff0369776c375115ca609908b5f507f28fa2c69c983c619bf487f03e506423178bad6a218add043dbd8a265df92b95f9f25fc6a32ee91cff2",
+          "sha256": "d12be1ec943ffe96b0118f30314ce7f565797512cf9c43adf20bea78d9b756f4",
+          "sha1": "8f22b618ff5317a92cc039b4a5bda7c5d3d3574c",
+          "md5": "45cfebc1bde7e539dfa46d4f5e4330e4"
         }
       ]
     },
@@ -51,7 +60,7 @@
           "group": "com.dwinovo.numen",
           "module": "numen-api-fabric-1.21.11",
           "version": {
-            "requires": "0.0.10"
+            "requires": "0.1.2"
           }
         },
         {
@@ -73,11 +82,11 @@
         {
           "name": "numen-fabric-1.21.11-0.1.2.jar",
           "url": "numen-fabric-1.21.11-0.1.2.jar",
-          "size": 2469345,
-          "sha512": "bf1bbcdf788a4d9886bb38e1f5a685d3ed85144977a7a3fe9b446ab282957f28fb24a2cb5909659de008e343851f2eb6e31bc050d9a5411140d760181630bfc5",
-          "sha256": "9f2cd3454186d3a8f7882dbe9f2265300f3d845d6adea52b81bb6d2acdad1f82",
-          "sha1": "9dec7e5691f1e631288c9b8b3f147387ca50fdd0",
-          "md5": "aebcbc3e2eae6037f59f8cb787e52720"
+          "size": 2469335,
+          "sha512": "0c40ec617a11112ff0369776c375115ca609908b5f507f28fa2c69c983c619bf487f03e506423178bad6a218add043dbd8a265df92b95f9f25fc6a32ee91cff2",
+          "sha256": "d12be1ec943ffe96b0118f30314ce7f565797512cf9c43adf20bea78d9b756f4",
+          "sha1": "8f22b618ff5317a92cc039b4a5bda7c5d3d3574c",
+          "md5": "45cfebc1bde7e539dfa46d4f5e4330e4"
         }
       ]
     },
