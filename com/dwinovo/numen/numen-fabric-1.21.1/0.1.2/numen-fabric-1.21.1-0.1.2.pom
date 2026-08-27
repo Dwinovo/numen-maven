@@ -14,8 +14,8 @@
     <dependency>
       <groupId>com.dwinovo.numen</groupId>
       <artifactId>numen-api-fabric-1.21.1</artifactId>
-      <version>0.0.10</version>
-      <scope>runtime</scope>
+      <version>0.1.2</version>
+      <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>net.fabricmc</groupId>
