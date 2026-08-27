@@ -12,6 +12,12 @@
   <version>0.1.2</version>
   <dependencies>
     <dependency>
+      <groupId>com.dwinovo.numen</groupId>
+      <artifactId>numen-api-forge-1.20.2</artifactId>
+      <version>0.1.2</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>net.minecraftforge</groupId>
       <artifactId>forge</artifactId>
       <version>1.20.2-48.0.49_mapped_official_1.20.2</version>

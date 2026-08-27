@@ -1,0 +1,136 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.dwinovo.numen",
+    "module": "numen-api-common-1.20.2",
+    "version": "0.1.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.7"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "common",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-ai-1.20.2",
+          "version": {
+            "requires": "0.1.2"
+          }
+        },
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-ui-1.20.2",
+          "version": {
+            "requires": "0.1.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "numen-api-common-1.20.2-0.1.2.jar",
+          "url": "numen-api-common-1.20.2-0.1.2.jar",
+          "size": 536639,
+          "sha512": "19c9fea27bb336bd9e3ec0be75a1b3d796754423ce662edfa745ed71a7b347a407e15ce9c0aee339451383468b69268c9eed44b134a085a9e80fa16c13a15cfa",
+          "sha256": "fcf2962145cc63b6ea624336c9fdc522378130177b8a735234b9a803e445e416",
+          "sha1": "40bc7fbf6d30ea64663a954c439841a78b236f84",
+          "md5": "16f3dcf2a97f1920d210ed082251c88c"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "common",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-ai-1.20.2",
+          "version": {
+            "requires": "0.1.2"
+          }
+        },
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-ui-1.20.2",
+          "version": {
+            "requires": "0.1.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "numen-api-common-1.20.2-0.1.2.jar",
+          "url": "numen-api-common-1.20.2-0.1.2.jar",
+          "size": 536639,
+          "sha512": "19c9fea27bb336bd9e3ec0be75a1b3d796754423ce662edfa745ed71a7b347a407e15ce9c0aee339451383468b69268c9eed44b134a085a9e80fa16c13a15cfa",
+          "sha256": "fcf2962145cc63b6ea624336c9fdc522378130177b8a735234b9a803e445e416",
+          "sha1": "40bc7fbf6d30ea64663a954c439841a78b236f84",
+          "md5": "16f3dcf2a97f1920d210ed082251c88c"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "common",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-api-common-1.20.2-0.1.2-sources.jar",
+          "url": "numen-api-common-1.20.2-0.1.2-sources.jar",
+          "size": 496888,
+          "sha512": "5f635a9b9f98f7dbff4bdd9940615c4cb0864a10b850fce28bc996e43c754ff3665a97f7fa8d6207dd29f1e4b3be71b3a6e0d471b38867507213bdf4b0ce9912",
+          "sha256": "97134df32a8e214c7e6060965296022260b35ea0558491d39404c62ca4f0e50c",
+          "sha1": "37ee41707da61383cd4cbe3f80f546a3dd20ea53",
+          "md5": "e9a1f1b6e0c7ff5d99b51be78a254a87"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "common",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-api-common-1.20.2-0.1.2-javadoc.jar",
+          "url": "numen-api-common-1.20.2-0.1.2-javadoc.jar",
+          "size": 687917,
+          "sha512": "2c97a741f51c6f3d77afaf06ca44c1669fc5afecdda9cb413fd0df1215a2c3a9849cff2554acb6ed1368b2d99a79420ad3e9514d840b4996e350ba6b298048b5",
+          "sha256": "207b555483b5008ed88cad672ea053281c419b81ffcc5a4489da5b9f394bae34",
+          "sha1": "aaea62333a549d9395c83cf0199e2830b093c81a",
+          "md5": "fc05d0697a3aedd67b383b5aec870aa6"
+        }
+      ]
+    }
+  ]
+}
