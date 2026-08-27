@@ -45,10 +45,10 @@
           "name": "numen-api-fabric-1.20.6-0.1.2.jar",
           "url": "numen-api-fabric-1.20.6-0.1.2.jar",
           "size": 1319806,
-          "sha512": "0541e366aed263deda4aedb2d35abc07a091ab67c18ae6149675420c4b053e58fdce66fa33dcc57b49a10cd814b457f0ee8bfe9ba3f0d1bcb0be3b3e9df77f95",
-          "sha256": "383c34ac725d98fbb63619fa757081c393a6962aa6fd572ccbcc60b5673de0a1",
-          "sha1": "15528c4b963b169a6ec64326db8a4e0960bc485b",
-          "md5": "e98fd812240bca51753c703be7ce3657"
+          "sha512": "52346a905070ed93d6687465303be2883c30746a3ddbd07768de4c5e935f54a559fb4c0ded3bda02cedcb012dcb9e1c7e6d9ba186be115719e9da1b6283fe6db",
+          "sha256": "d440475c9170f4cabc1d3a42bacde41a6858f7bd1d24bec580a515b20e933ce9",
+          "sha1": "55751bd1c977af3d98a8b576ad56020c23de6fa4",
+          "md5": "3de231ddf42956c2ce0c592836aee7ee"
         }
       ]
     },
@@ -97,10 +97,10 @@
           "name": "numen-api-fabric-1.20.6-0.1.2.jar",
           "url": "numen-api-fabric-1.20.6-0.1.2.jar",
           "size": 1319806,
-          "sha512": "0541e366aed263deda4aedb2d35abc07a091ab67c18ae6149675420c4b053e58fdce66fa33dcc57b49a10cd814b457f0ee8bfe9ba3f0d1bcb0be3b3e9df77f95",
-          "sha256": "383c34ac725d98fbb63619fa757081c393a6962aa6fd572ccbcc60b5673de0a1",
-          "sha1": "15528c4b963b169a6ec64326db8a4e0960bc485b",
-          "md5": "e98fd812240bca51753c703be7ce3657"
+          "sha512": "52346a905070ed93d6687465303be2883c30746a3ddbd07768de4c5e935f54a559fb4c0ded3bda02cedcb012dcb9e1c7e6d9ba186be115719e9da1b6283fe6db",
+          "sha256": "d440475c9170f4cabc1d3a42bacde41a6858f7bd1d24bec580a515b20e933ce9",
+          "sha1": "55751bd1c977af3d98a8b576ad56020c23de6fa4",
+          "md5": "3de231ddf42956c2ce0c592836aee7ee"
         }
       ]
     },
@@ -118,10 +118,10 @@
           "name": "numen-api-fabric-1.20.6-0.1.2-sources.jar",
           "url": "numen-api-fabric-1.20.6-0.1.2-sources.jar",
           "size": 1058772,
-          "sha512": "41d697085b0dcf8434f2ed150eb685e00db3fe528db6451e891ca23a53aaefede0b30756d2f9782ef5f3d878f679007e362c2717d5b4be476df126c4bd6b9300",
-          "sha256": "bcbc94f1e6c9ae51660e5f62339f47e7376ee825c8416a0fd65dd5433ae017b2",
-          "sha1": "d8c605baf8981bd7576224023b647e5705dcf3e2",
-          "md5": "934fe59fd14fae18da5b8f236b436310"
+          "sha512": "75323f426ee0e6e9f14076168551dc5f4feb75a5be8be49b3555279805188c3ec38fcad0a3f59f54c86ed1d715ae63aacda19d34f955e0cf8a6656fb10ca96ce",
+          "sha256": "1e9c1435fdf5d8900f6c38282a0ff10a84516125ac5f397a40cfee52fbec420e",
+          "sha1": "6b60f11cf92a1ecec2adde60ef748051346fddb3",
+          "md5": "8f49494b0af88261cd42a8bbcc8f45d4"
         }
       ]
     },
