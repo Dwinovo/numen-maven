@@ -45,10 +45,10 @@
           "name": "numen-api-common-1.20.1-0.1.2.jar",
           "url": "numen-api-common-1.20.1-0.1.2.jar",
           "size": 535620,
-          "sha512": "c512ec08b33eaaab603633b637c787480534615e3daf12390684f384c47791cb9f33a2708df841d7cba2e0e77b7f3c6a954f7cc1a47541865d599ffac4e0cc89",
-          "sha256": "143065ec8564c4fc591a84aa38db5f85a437ffd5dd1a28e37fdb9248704844a1",
-          "sha1": "064adcb46441873c0639d39c0ebb0f90140e6922",
-          "md5": "1cd91e45c0ee6b980f00380f799ccfc3"
+          "sha512": "6fe2842ccf608763745f6635df902d93bb637e012fdc483280ad926fbdd39c44398b959c71bf721d2857001fd69a28320929dde0b0e8d2ad30f47e6e3aba7daf",
+          "sha256": "ceb7392dfead455e410861bb6a9b7852c0b29f253903a82d6f42f019844f515d",
+          "sha1": "7fd4ac7292cebe18fcb7cddf10afbae4132b69b8",
+          "md5": "b850817eeb5ea73d8932eb69f900ded8"
         }
       ]
     },
@@ -83,10 +83,10 @@
           "name": "numen-api-common-1.20.1-0.1.2.jar",
           "url": "numen-api-common-1.20.1-0.1.2.jar",
           "size": 535620,
-          "sha512": "c512ec08b33eaaab603633b637c787480534615e3daf12390684f384c47791cb9f33a2708df841d7cba2e0e77b7f3c6a954f7cc1a47541865d599ffac4e0cc89",
-          "sha256": "143065ec8564c4fc591a84aa38db5f85a437ffd5dd1a28e37fdb9248704844a1",
-          "sha1": "064adcb46441873c0639d39c0ebb0f90140e6922",
-          "md5": "1cd91e45c0ee6b980f00380f799ccfc3"
+          "sha512": "6fe2842ccf608763745f6635df902d93bb637e012fdc483280ad926fbdd39c44398b959c71bf721d2857001fd69a28320929dde0b0e8d2ad30f47e6e3aba7daf",
+          "sha256": "ceb7392dfead455e410861bb6a9b7852c0b29f253903a82d6f42f019844f515d",
+          "sha1": "7fd4ac7292cebe18fcb7cddf10afbae4132b69b8",
+          "md5": "b850817eeb5ea73d8932eb69f900ded8"
         }
       ]
     },
@@ -104,10 +104,10 @@
           "name": "numen-api-common-1.20.1-0.1.2-sources.jar",
           "url": "numen-api-common-1.20.1-0.1.2-sources.jar",
           "size": 496516,
-          "sha512": "ce6136185150a07ee2c0fdf25bda61686ab3e379cb49bc3dd792f79b4ea3a0f5ba17864bd3a7a52208732f4f504291070c122c46b6043927afd36e83eaf85e09",
-          "sha256": "8ea0d77ed6afd75ab66cb21cf323d3e31b2f4b0b15cc77dbf46aad80ee72fbf0",
-          "sha1": "6a81ad9c97538c861aee5405af396c89dc0eee7d",
-          "md5": "c3f55b05e95ec366e2c2d975a3dd7c84"
+          "sha512": "ff6d260e641c40f7975a403f3130209c70e5e9f2ba968a7022a7006c447d8a14fa8e6a7912ed5e4186b17d6409a6f2d7a9b17f4e47945c44d5378f068100bf86",
+          "sha256": "22edaea9e7168bba4c6e190fec4fd39a0b83c4b705249be1bca3cb3e0af2eaa6",
+          "sha1": "778636cca9272c96a6bb6ee4ff8b0c749204ae66",
+          "md5": "eb81e3ed6143a833d1d2848aa70182cb"
         }
       ]
     },
@@ -125,10 +125,10 @@
           "name": "numen-api-common-1.20.1-0.1.2-javadoc.jar",
           "url": "numen-api-common-1.20.1-0.1.2-javadoc.jar",
           "size": 692670,
-          "sha512": "f3a109bd8d4188fe42c3f0fb8a7edf8483a0f34a2267b6fe2a962888f70823a5216efa74353c637d75bfd1bb552ee5f9439bc838d6c482787e87fb6eae37f2dc",
-          "sha256": "c9de602c07ef01571b5a99c2ae072c31dceaf01eec05d636eeacd674a125515f",
-          "sha1": "0b0b7406def54996ace7e9225c5c67b2dfe1b03e",
-          "md5": "31394652e209ae7695979558b9bf7d49"
+          "sha512": "25ddedcf2f47abad1b5a1a33ac92e873b369f2479a8fa9701e7941a34bd73abcc782987030f3bcdb93689a316b1d4a5297e8ff0bf6322c17c875d9e7f9589f33",
+          "sha256": "8e44f10cf29d41b208f9e08ced29b185b269d274897660c039e4c5976c0e2c02",
+          "sha1": "a7c275e3cc0db17fb6b51a31aae3734b2795af26",
+          "md5": "69e7d3699072a7fc9baeb7679ca23a04"
         }
       ]
     }

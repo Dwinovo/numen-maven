@@ -44,11 +44,11 @@
         {
           "name": "numen-api-fabric-1.20.1-0.1.2.jar",
           "url": "numen-api-fabric-1.20.1-0.1.2.jar",
-          "size": 1323456,
-          "sha512": "80500600f390c94e3572bbc4e1bed14cbae705e8a3724eb4d5e1aaa0337d966fdde5f8a339a41d7c22300a8157c4539a9c0047b316a4dc067c199e2a925e1f6a",
-          "sha256": "5b5b85a88dac2a0a95dfb62ecc507e17ef949acc299e29a87b1277d22b976d69",
-          "sha1": "3b687117e6ff4b208da8895b4cfbf51f80ff881a",
-          "md5": "16247ed52cd8bd30626d37cf1799798e"
+          "size": 1323454,
+          "sha512": "5bdd000214f2d5892c98b7e8c2410206e2a52af66ac425730ed18bdd69fca176940904bd2868d6e85f8c7affe3fa15b393aa17afb20a8d8e10712c8c55878f18",
+          "sha256": "6f9afca6063218afe59e87af90c4d50750d832aef2100ef544dc345ca23fa5ec",
+          "sha1": "8a07d01f6dfc16a83d02624409b37224ede48638",
+          "md5": "8a3619f2e27fbf52ceb79bfb7801c46e"
         }
       ]
     },
@@ -96,11 +96,11 @@
         {
           "name": "numen-api-fabric-1.20.1-0.1.2.jar",
           "url": "numen-api-fabric-1.20.1-0.1.2.jar",
-          "size": 1323456,
-          "sha512": "80500600f390c94e3572bbc4e1bed14cbae705e8a3724eb4d5e1aaa0337d966fdde5f8a339a41d7c22300a8157c4539a9c0047b316a4dc067c199e2a925e1f6a",
-          "sha256": "5b5b85a88dac2a0a95dfb62ecc507e17ef949acc299e29a87b1277d22b976d69",
-          "sha1": "3b687117e6ff4b208da8895b4cfbf51f80ff881a",
-          "md5": "16247ed52cd8bd30626d37cf1799798e"
+          "size": 1323454,
+          "sha512": "5bdd000214f2d5892c98b7e8c2410206e2a52af66ac425730ed18bdd69fca176940904bd2868d6e85f8c7affe3fa15b393aa17afb20a8d8e10712c8c55878f18",
+          "sha256": "6f9afca6063218afe59e87af90c4d50750d832aef2100ef544dc345ca23fa5ec",
+          "sha1": "8a07d01f6dfc16a83d02624409b37224ede48638",
+          "md5": "8a3619f2e27fbf52ceb79bfb7801c46e"
         }
       ]
     },
@@ -117,11 +117,11 @@
         {
           "name": "numen-api-fabric-1.20.1-0.1.2-sources.jar",
           "url": "numen-api-fabric-1.20.1-0.1.2-sources.jar",
-          "size": 1072736,
-          "sha512": "15829adfa54a5c341f0c7124f45a06c200ca762abb5c207cd2881e500055ca127e3c4b2f10ab115db311fc7009bfbc79ecefa5133fbd957d81f0dfd92231f3b0",
-          "sha256": "9f6b0b2aaf994e750f2a7a3b008b31f4d3b9ef84e69e10df55d5850bac0671bb",
-          "sha1": "32b8b53effaf3f110fd25193590591b728271cd5",
-          "md5": "d025e00f87a3577805b13aa49945319b"
+          "size": 1072734,
+          "sha512": "925c086f7a584dbea4d709420944b0cedbe2ea584f0b7e846b76d3a9891adb37908478988f644b9f35b019b7f1bbdefa1454cc5503e8e3fb05816d02464c86ca",
+          "sha256": "07b726d6dfada6adcd27e2b066c6942aacb67cd5d7d0186b3df94f130c8462c8",
+          "sha1": "a0e1835ae0fa9b2362d692db6aafb18340027365",
+          "md5": "afbb57925f3292d57578c5b081e75640"
         }
       ]
     },
@@ -139,10 +139,10 @@
           "name": "numen-api-fabric-1.20.1-0.1.2-javadoc.jar",
           "url": "numen-api-fabric-1.20.1-0.1.2-javadoc.jar",
           "size": 1529875,
-          "sha512": "1f8af7a2a45e3cf410f39e78aff19d6bcafbf0be1885ff3007ca5f5f888c6d15e33ec377075a742c1c495726977829f5af887687bca83976ebf3c3f018788aaf",
-          "sha256": "34c701a15f2856c0315a171ae68d90770fbc4da5e8d6e045c507b5be494123bc",
-          "sha1": "4e3b260ca9b69bb2c173f16a5934879955138822",
-          "md5": "2799d34db68faa2c6b4896551fa977fd"
+          "sha512": "923eab539513f86c459229b80dc5c54b25263dde511fb16c406717bc5291660680f6ba2b0306b756ebccecd3e231911e0054cacacbf78b077e0ed92f55eeb2e3",
+          "sha256": "b69fe376913afe0ed2ff6bd18e1be897e8575a26bb5b66186788a7940dbaa8e0",
+          "sha1": "6fdd3f9505384e3c1b57c1dfc4fcd2567a8b3f66",
+          "md5": "5fc6c99495f6d6a59e0385fe80225732"
         }
       ]
     }
