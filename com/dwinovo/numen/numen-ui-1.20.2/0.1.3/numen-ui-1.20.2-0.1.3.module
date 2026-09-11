@@ -1,0 +1,100 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.dwinovo.numen",
+    "module": "numen-ui-1.20.2",
+    "version": "0.1.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.7"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "numen-ui-1.20.2-0.1.3.jar",
+          "url": "numen-ui-1.20.2-0.1.3.jar",
+          "size": 81033,
+          "sha512": "c5f58c42ff6d4dea14b8cb0dd8a6bc9bca9004d5f651339ebc4b4ab155544d61b9c0bdb66547d2773e6db7643e1fd17e451ba35d41118caca79c2b5ad506c659",
+          "sha256": "531c3c1647bd8d96254a52babbb1d5c9d88e618c5edba81e9143ffc48e55e667",
+          "sha1": "455f0bbad1e17e51afbe90ec28b3bcace692524a",
+          "md5": "c0c8c38d52dc7236ff20a6b33e20fea8"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-ui-1.20.2-0.1.3.jar",
+          "url": "numen-ui-1.20.2-0.1.3.jar",
+          "size": 81033,
+          "sha512": "c5f58c42ff6d4dea14b8cb0dd8a6bc9bca9004d5f651339ebc4b4ab155544d61b9c0bdb66547d2773e6db7643e1fd17e451ba35d41118caca79c2b5ad506c659",
+          "sha256": "531c3c1647bd8d96254a52babbb1d5c9d88e618c5edba81e9143ffc48e55e667",
+          "sha1": "455f0bbad1e17e51afbe90ec28b3bcace692524a",
+          "md5": "c0c8c38d52dc7236ff20a6b33e20fea8"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-ui-1.20.2-0.1.3-sources.jar",
+          "url": "numen-ui-1.20.2-0.1.3-sources.jar",
+          "size": 54941,
+          "sha512": "643938be802c873c7abba16207403a5eb48ef2fa54b49f564e201bd19367129bdc3abdbfad850da0a9f80c31262d0a45e529e94f43e15e4cc9ec21803e556caa",
+          "sha256": "1a210ae64ea39fd10ad0c3919d99e826f7063958b90e6bf176e9917bf92fb46e",
+          "sha1": "39d836b338c971f4fa29e150048302c7f6affdcc",
+          "md5": "e9be954f7ecaf892a3b255a4ccf0689e"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-ui-1.20.2-0.1.3-javadoc.jar",
+          "url": "numen-ui-1.20.2-0.1.3-javadoc.jar",
+          "size": 271155,
+          "sha512": "1e09a5c736b9ec6d2daaee19444317bab4698303541200bd6d2d45fc5d1c52473d168f357c8adad4ab659d428bf93580316f91bc7b419a1b45ccacbffa19be9d",
+          "sha256": "690d1666a6f77d28ad435472a550b443d1ba9bdab10b8271914716b303637dbc",
+          "sha1": "7d68e4ac48fffdac9393476ca9815401b8554722",
+          "md5": "077239a5d683667d57d4cf4b332bcebc"
+        }
+      ]
+    }
+  ]
+}
