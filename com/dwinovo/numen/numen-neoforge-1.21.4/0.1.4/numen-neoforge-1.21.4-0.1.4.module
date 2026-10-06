@@ -1,0 +1,122 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.dwinovo.numen",
+    "module": "numen-neoforge-1.21.4",
+    "version": "0.1.4",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.2.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-api-neoforge-1.21.4",
+          "version": {
+            "requires": "0.1.4"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "numen-neoforge-1.21.4-0.1.4.jar",
+          "url": "numen-neoforge-1.21.4-0.1.4.jar",
+          "size": 4350214,
+          "sha512": "36009ab5e1b9b6fac807334dfc96193fdcff8802ba5ec9611b76b39b3f5f2b1a3318732c15025d69a6d273ed409bd54a09e0910065fb05136dbcbcd132fe1870",
+          "sha256": "27e9894bffc7f598b3d42c62648846fb70e551ca43e3f1276ff190453c8d6586",
+          "sha1": "be9fd94d75507639e297dfa9992027a6548e91dd",
+          "md5": "e071df41f2346e18297ea83ad7b88654"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-api-neoforge-1.21.4",
+          "version": {
+            "requires": "0.1.4"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "numen-neoforge-1.21.4-0.1.4.jar",
+          "url": "numen-neoforge-1.21.4-0.1.4.jar",
+          "size": 4350214,
+          "sha512": "36009ab5e1b9b6fac807334dfc96193fdcff8802ba5ec9611b76b39b3f5f2b1a3318732c15025d69a6d273ed409bd54a09e0910065fb05136dbcbcd132fe1870",
+          "sha256": "27e9894bffc7f598b3d42c62648846fb70e551ca43e3f1276ff190453c8d6586",
+          "sha1": "be9fd94d75507639e297dfa9992027a6548e91dd",
+          "md5": "e071df41f2346e18297ea83ad7b88654"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-neoforge-1.21.4-0.1.4-sources.jar",
+          "url": "numen-neoforge-1.21.4-0.1.4-sources.jar",
+          "size": 1118001,
+          "sha512": "e65d0b03d26250790509b5c2b96174e1851f893d4ddf48323fc71789d1acb9db485895cb2d0dcf4e3efb1682d35e91575e3ddbaf6a0d8877b5bac9a57b8cf42f",
+          "sha256": "0b2326c091bc61c14ccecec73efa11216d4797ad9d2cb68bb2c0b69fabb7a741",
+          "sha1": "7cfd927c12524def3a311c95249b4fd6c589396f",
+          "md5": "52fe6bec6cc18f011e069ed0b2fb8b73"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-neoforge-1.21.4-0.1.4-javadoc.jar",
+          "url": "numen-neoforge-1.21.4-0.1.4-javadoc.jar",
+          "size": 1853379,
+          "sha512": "c698d25751f83e18b0fe4a35b720582f07e7e85ebfe3190d1b66cafd6486856b493367cdb2b4606eb0398ce16a4ed8102a4f863ed1b500d2b3b1dabec6d3e2e8",
+          "sha256": "540554e00f8d84c91a9f689598c370736b6e50fa5aba3036b4dc22c2888958b3",
+          "sha1": "5aa5f54a7ce51174c2bbb6691e5cb3ce0ca55bee",
+          "md5": "f638f93127ab8986df7217b1a3a0bbfd"
+        }
+      ]
+    }
+  ]
+}
