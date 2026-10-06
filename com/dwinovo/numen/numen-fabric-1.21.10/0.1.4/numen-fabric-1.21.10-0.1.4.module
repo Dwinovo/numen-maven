@@ -1,0 +1,136 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.dwinovo.numen",
+    "module": "numen-fabric-1.21.10",
+    "version": "0.1.4",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.2.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "fabric",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-api-fabric-1.21.10",
+          "version": {
+            "requires": "0.1.4"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "numen-fabric-1.21.10-0.1.4.jar",
+          "url": "numen-fabric-1.21.10-0.1.4.jar",
+          "size": 3913338,
+          "sha512": "83ca8b48b8b0c49e0cabc554953a36a697684ba9ca4aaf4ce618a762376421c2a5ced6b14938145dff49e1455f69c21e135211f722a5658bf90b9f7b1bb0ffe3",
+          "sha256": "b91b15f9d811e7af24e3684d0788541663395ff2696e14cff72d47d5785f8f1b",
+          "sha1": "14cd785579b22d29a4e7f1a5714cb5565c0493ca",
+          "md5": "b357e9240cbdf4b18483531ed70e7b0c"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "fabric",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-api-fabric-1.21.10",
+          "version": {
+            "requires": "0.1.4"
+          }
+        },
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.18.1"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.138.4+1.21.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "numen-fabric-1.21.10-0.1.4.jar",
+          "url": "numen-fabric-1.21.10-0.1.4.jar",
+          "size": 3913338,
+          "sha512": "83ca8b48b8b0c49e0cabc554953a36a697684ba9ca4aaf4ce618a762376421c2a5ced6b14938145dff49e1455f69c21e135211f722a5658bf90b9f7b1bb0ffe3",
+          "sha256": "b91b15f9d811e7af24e3684d0788541663395ff2696e14cff72d47d5785f8f1b",
+          "sha1": "14cd785579b22d29a4e7f1a5714cb5565c0493ca",
+          "md5": "b357e9240cbdf4b18483531ed70e7b0c"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "fabric",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-fabric-1.21.10-0.1.4-sources.jar",
+          "url": "numen-fabric-1.21.10-0.1.4-sources.jar",
+          "size": 887821,
+          "sha512": "1fcdbc5bf8d4882a689323d30cb1742d50eaa9c0ab477c6e6d2b7eb3c1e27fcdb44b8aa65c42eefbcf5c16d1fc542101784781d6342d23f75bf0eb8127e59674",
+          "sha256": "4249f64c94e849c4e1242e90d24a1dce304caf5250d190bf114c327c9f88c65f",
+          "sha1": "172abe4695ac344de2ba0002f9658e4a961923b7",
+          "md5": "1b235cb24b973eabdd0dfc86dd8ebddb"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "fabric",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-fabric-1.21.10-0.1.4-javadoc.jar",
+          "url": "numen-fabric-1.21.10-0.1.4-javadoc.jar",
+          "size": 1587997,
+          "sha512": "f1150cc9473481a2b6e7d07c3165946f8c04d9cf93abfb25e8aa986b30d9e5542fc82ae98ec429b07fce85faf7391b231b8932f95eeaf52cbb275abdbb26431d",
+          "sha256": "f0c189b307b271a73074b26990de0c7f90ec9b1dbb79197ae876c6f0dd864ab0",
+          "sha1": "58542e48e5652d7a8c47c6a18cff0ea9276266d2",
+          "md5": "58569e9bc4e0c54079e5ab3814f8a813"
+        }
+      ]
+    }
+  ]
+}
