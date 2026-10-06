@@ -1,0 +1,185 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.dwinovo.numen",
+    "module": "numen-api-forge-1.20.4",
+    "version": "0.1.4",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.7"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "forge",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-ai-1.20.4",
+          "version": {
+            "requires": "0.1.4"
+          }
+        },
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-agent-1.20.4",
+          "version": {
+            "requires": "0.1.4"
+          }
+        },
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-lua-1.20.4",
+          "version": {
+            "requires": "0.1.4"
+          }
+        },
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-ui-1.20.4",
+          "version": {
+            "requires": "0.1.4"
+          }
+        },
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-pathing-1.20.4",
+          "version": {
+            "requires": "0.1.4"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "numen-api-forge-1.20.4-0.1.4.jar",
+          "url": "numen-api-forge-1.20.4-0.1.4.jar",
+          "size": 2955269,
+          "sha512": "ef47840ae54bdf92a0cccba0bbc96a60e65b6fe9a8e1c8ca4629d2dabf8ffb22fda899f6d119831d6ee759fc1dbba8ad2a5a47d9aaa9468dd5a79e8301a093f5",
+          "sha256": "dda042745a0e1cbe23c715d1a4deb40ae99119b77555483c95c46c90514ba9ee",
+          "sha1": "2990a87fe5ad7f62776e081070be78dff54a37d9",
+          "md5": "e15d4b40d6e797b8b2da10faa2404f1d"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "forge",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-ai-1.20.4",
+          "version": {
+            "requires": "0.1.4"
+          }
+        },
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-agent-1.20.4",
+          "version": {
+            "requires": "0.1.4"
+          }
+        },
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-lua-1.20.4",
+          "version": {
+            "requires": "0.1.4"
+          }
+        },
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-ui-1.20.4",
+          "version": {
+            "requires": "0.1.4"
+          }
+        },
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-pathing-1.20.4",
+          "version": {
+            "requires": "0.1.4"
+          }
+        },
+        {
+          "group": "net.minecraftforge",
+          "module": "forge",
+          "version": {
+            "requires": "1.20.4-49.0.19_mapped_official_1.20.4"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "numen-api-forge-1.20.4-0.1.4.jar",
+          "url": "numen-api-forge-1.20.4-0.1.4.jar",
+          "size": 2955269,
+          "sha512": "ef47840ae54bdf92a0cccba0bbc96a60e65b6fe9a8e1c8ca4629d2dabf8ffb22fda899f6d119831d6ee759fc1dbba8ad2a5a47d9aaa9468dd5a79e8301a093f5",
+          "sha256": "dda042745a0e1cbe23c715d1a4deb40ae99119b77555483c95c46c90514ba9ee",
+          "sha1": "2990a87fe5ad7f62776e081070be78dff54a37d9",
+          "md5": "e15d4b40d6e797b8b2da10faa2404f1d"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "forge",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-api-forge-1.20.4-0.1.4-sources.jar",
+          "url": "numen-api-forge-1.20.4-0.1.4-sources.jar",
+          "size": 2026884,
+          "sha512": "694c47e7b5495165855852af23c98978496f166f0d1b538432cee961c12c6fd0b8fa6e08ec43dd49b23ea30c17817ee2a383431afbb839b3d539711866ab9e60",
+          "sha256": "d37edbe89852970a043082e153ca2869562058bfb277eea3d6899174f03eb931",
+          "sha1": "cef53ef0c57cbf8cfb6196be55ca5ac978f68e1e",
+          "md5": "1a94f5a5995e835e5db855e794e4b681"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "forge",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-api-forge-1.20.4-0.1.4-javadoc.jar",
+          "url": "numen-api-forge-1.20.4-0.1.4-javadoc.jar",
+          "size": 2475928,
+          "sha512": "228ffe3450ab7330142ff2db1cb92f92a472d30c1af4eb00db7fe3e047decc1ab674066f1140730d875d74d4772dd4e2639882a2cfa9b2f778a73683e41662ee",
+          "sha256": "fe360686f60dc341cb20917fc061d978072a1c4d207dca20f5e0ec54fee0d40b",
+          "sha1": "5bd63f2c51721f19d2376a1ed3947a655a0a6c7e",
+          "md5": "c096dcb925d41144120410ab5f6c18eb"
+        }
+      ]
+    }
+  ]
+}
