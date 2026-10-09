@@ -1,0 +1,192 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.dwinovo.numen",
+    "module": "numen-api-fabric-26.1.2",
+    "version": "0.1.4.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.2.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "fabric",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-ai-26.1.2",
+          "version": {
+            "requires": "0.1.4.1"
+          }
+        },
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-agent-26.1.2",
+          "version": {
+            "requires": "0.1.4.1"
+          }
+        },
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-lua-26.1.2",
+          "version": {
+            "requires": "0.1.4.1"
+          }
+        },
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-ui-26.1.2",
+          "version": {
+            "requires": "0.1.4.1"
+          }
+        },
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-pathing-26.1.2",
+          "version": {
+            "requires": "0.1.4.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "numen-api-fabric-26.1.2-0.1.4.1.jar",
+          "url": "numen-api-fabric-26.1.2-0.1.4.1.jar",
+          "size": 2958333,
+          "sha512": "b287021db80f354c59c34ecddd8d4918a9d07d14b926b885dcfdeba0f9e03ad8264c368424771e895b4e75bf10558c1de2f6d100510d09775d9393219faad2aa",
+          "sha256": "fc3bbb27586b83fd84f102538c9c8435d20b99fc9ef9fbd33a65f06504105346",
+          "sha1": "d7e104e5894a236edcddf3da3f8e01f34162f3bf",
+          "md5": "e6c1ae62536a3234ec8f7c41b9534529"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "fabric",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.19.2"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.148.2+26.1.2"
+          }
+        },
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-ai-26.1.2",
+          "version": {
+            "requires": "0.1.4.1"
+          }
+        },
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-agent-26.1.2",
+          "version": {
+            "requires": "0.1.4.1"
+          }
+        },
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-lua-26.1.2",
+          "version": {
+            "requires": "0.1.4.1"
+          }
+        },
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-ui-26.1.2",
+          "version": {
+            "requires": "0.1.4.1"
+          }
+        },
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-pathing-26.1.2",
+          "version": {
+            "requires": "0.1.4.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "numen-api-fabric-26.1.2-0.1.4.1.jar",
+          "url": "numen-api-fabric-26.1.2-0.1.4.1.jar",
+          "size": 2958333,
+          "sha512": "b287021db80f354c59c34ecddd8d4918a9d07d14b926b885dcfdeba0f9e03ad8264c368424771e895b4e75bf10558c1de2f6d100510d09775d9393219faad2aa",
+          "sha256": "fc3bbb27586b83fd84f102538c9c8435d20b99fc9ef9fbd33a65f06504105346",
+          "sha1": "d7e104e5894a236edcddf3da3f8e01f34162f3bf",
+          "md5": "e6c1ae62536a3234ec8f7c41b9534529"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "fabric",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-api-fabric-26.1.2-0.1.4.1-sources.jar",
+          "url": "numen-api-fabric-26.1.2-0.1.4.1-sources.jar",
+          "size": 2032884,
+          "sha512": "27dcf3a32c3aa9b35701dbb9ef9fb56863761d64a74163db25059bedfefea07b4e863c2f8f757351f5ee629cdd0eb7db0b41ac6f3257ae72149cb315ad098ae2",
+          "sha256": "4ef1a7f6f2986462e13868cc40cf53cbb5b19837d8dcbaf32a772d505d85356a",
+          "sha1": "1efc8e6576d0074f68e62c3eeb655b316dd69bba",
+          "md5": "742909cbfcb5a6f716bceedb26edc385"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "fabric",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-api-fabric-26.1.2-0.1.4.1-javadoc.jar",
+          "url": "numen-api-fabric-26.1.2-0.1.4.1-javadoc.jar",
+          "size": 6725304,
+          "sha512": "70488836507db303498cb1a5453035c80c1144ab65d3d0d526dbf2ee5e4e8a8b0fcde8ed6cbc55053b9df74169ce76095a2e945025ec1f60487c50484d484f8b",
+          "sha256": "5556b190ca83fd5b43bb5434afb219fbc9eb05511a0a8a6e04396fa1f8f4d9db",
+          "sha1": "16cf9e5b9c2cde692fc15282b1ccc6442ceab441",
+          "md5": "30bcaaa82aef4446eb161519914a8009"
+        }
+      ]
+    }
+  ]
+}
