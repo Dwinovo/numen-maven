@@ -1,0 +1,125 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.dwinovo.numen",
+    "module": "numen-script-26.1.2",
+    "version": "0.1.5",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.7.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-ai-26.1.2",
+          "version": {
+            "requires": "0.1.5"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "numen-script-26.1.2-0.1.5.jar",
+          "url": "numen-script-26.1.2-0.1.5.jar",
+          "size": 98371,
+          "sha512": "968f32f0ec0a6596c83cc872c0272ccd83808b44340e626fc3e87e4b2013352e3f97a7b274b3ff5593a424f9e1911cf34bea199b9ac5098293451e9ddde7ec83",
+          "sha256": "c5da50ac38789fe150b5f0aa1f3d4a8ab7a0021e4f6814a262fd841f2a218433",
+          "sha1": "90bac914ea17eea7dab9227e320b539de7517e48",
+          "md5": "ce3078760111a26c6deefa291e7234a7"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-lua-26.1.2",
+          "version": {
+            "requires": "0.1.5"
+          }
+        },
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-ai-26.1.2",
+          "version": {
+            "requires": "0.1.5"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "numen-script-26.1.2-0.1.5.jar",
+          "url": "numen-script-26.1.2-0.1.5.jar",
+          "size": 98371,
+          "sha512": "968f32f0ec0a6596c83cc872c0272ccd83808b44340e626fc3e87e4b2013352e3f97a7b274b3ff5593a424f9e1911cf34bea199b9ac5098293451e9ddde7ec83",
+          "sha256": "c5da50ac38789fe150b5f0aa1f3d4a8ab7a0021e4f6814a262fd841f2a218433",
+          "sha1": "90bac914ea17eea7dab9227e320b539de7517e48",
+          "md5": "ce3078760111a26c6deefa291e7234a7"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-script-26.1.2-0.1.5-sources.jar",
+          "url": "numen-script-26.1.2-0.1.5-sources.jar",
+          "size": 45024,
+          "sha512": "a995bdaf49fbb2ed8f5c6cb372d1e3b8910d690ca53386e48feb3377dd430debeb959584c0590734815b333933fa39b04dd4c6840897929aad900be66a3fc6a4",
+          "sha256": "1af7faeef609da1248300b13aaaac13e9ca246d9a119ca8d978643b09ee7a3da",
+          "sha1": "bd1735bb1c9a20b50d5de3a04eb382c40d1c403c",
+          "md5": "d0e5103104cbd68e9d61cd921df96c45"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-script-26.1.2-0.1.5-javadoc.jar",
+          "url": "numen-script-26.1.2-0.1.5-javadoc.jar",
+          "size": 4375487,
+          "sha512": "776b2d4f630e589851bd17fd13c7c8f7c6d8935892314a89f5d796f06e278c8e143c3fe861d11e578994fdc26c92f3d95299c330f9d6c21ed72987b0c0c6c469",
+          "sha256": "c5deb6d4163c68fc4e28a164e9aef0915520c8a3e8480582d407660d522f2179",
+          "sha1": "76112980a27aabdd0ccb66ee961c1072240423ae",
+          "md5": "6cc6340d83f1f3e67c31e723c664dda3"
+        }
+      ]
+    }
+  ]
+}

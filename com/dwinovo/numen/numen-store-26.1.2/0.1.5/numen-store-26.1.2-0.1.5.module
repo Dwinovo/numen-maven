@@ -1,0 +1,130 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.dwinovo.numen",
+    "module": "numen-store-26.1.2",
+    "version": "0.1.5",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.7.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.13.2"
+          },
+          "excludes": [
+            {
+              "group": "com.google.errorprone",
+              "module": "*"
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "name": "numen-store-26.1.2-0.1.5.jar",
+          "url": "numen-store-26.1.2-0.1.5.jar",
+          "size": 30075,
+          "sha512": "eac292c88014e2f2c28250552f7aa7c4c2182cb553acde0eeb03593314d4f0707380b13aac4974e98b679a07ccc34121b58a104cc5627c96de0c8d8bde218882",
+          "sha256": "7890310adf58c7c76806b46225a28e2b0bb9ef7bf6ebd0a3de5c4ba78a419aaf",
+          "sha1": "3455fd41f2cb930c74a31eeea483553bf0971075",
+          "md5": "f0d9b54c50ab90bf091e8a38b2ed4312"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.13.2"
+          },
+          "excludes": [
+            {
+              "group": "com.google.errorprone",
+              "module": "*"
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "name": "numen-store-26.1.2-0.1.5.jar",
+          "url": "numen-store-26.1.2-0.1.5.jar",
+          "size": 30075,
+          "sha512": "eac292c88014e2f2c28250552f7aa7c4c2182cb553acde0eeb03593314d4f0707380b13aac4974e98b679a07ccc34121b58a104cc5627c96de0c8d8bde218882",
+          "sha256": "7890310adf58c7c76806b46225a28e2b0bb9ef7bf6ebd0a3de5c4ba78a419aaf",
+          "sha1": "3455fd41f2cb930c74a31eeea483553bf0971075",
+          "md5": "f0d9b54c50ab90bf091e8a38b2ed4312"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-store-26.1.2-0.1.5-sources.jar",
+          "url": "numen-store-26.1.2-0.1.5-sources.jar",
+          "size": 16601,
+          "sha512": "037515a423bfe915446f4193dc55410b343801f5e2eec48a792ebf06400fc9457a14debc06f0f661986c54411f840c3b6555ea1a5477d5028cba485dc2f33fba",
+          "sha256": "8bb1f8c77b8b65e24918d95bed6597782bbba1d1a35c0c975149887fb72ff8a1",
+          "sha1": "21f362d6f233cb506cf43dd0ead2a837c8107d01",
+          "md5": "7e5ff63d37e1166bb722cc43c70025f3"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-store-26.1.2-0.1.5-javadoc.jar",
+          "url": "numen-store-26.1.2-0.1.5-javadoc.jar",
+          "size": 4209032,
+          "sha512": "a65ff5196b263be89499088e1c9d2e946b0659c9c121a0b94acb9b376a1bd38aa3e744edd57c856a28965edb456f1f492a98e5af63692d5423cdb0ca54308ba8",
+          "sha256": "ac54ebd52e4fb7a8b149efaf0d98349822244a46e5640baee97da0090ebe2ba3",
+          "sha1": "de95f6b3a4001338ee0386ba2b5c81881fd045ea",
+          "md5": "60610da88f9bb4fb1824cbfc903fd475"
+        }
+      ]
+    }
+  ]
+}
