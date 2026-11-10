@@ -1,0 +1,100 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.dwinovo.numen",
+    "module": "numen-lua-1.20.4",
+    "version": "0.1.5",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.7"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "numen-lua-1.20.4-0.1.5.jar",
+          "url": "numen-lua-1.20.4-0.1.5.jar",
+          "size": 282698,
+          "sha512": "6e588c22b154b69568d33059e459affcd1b561a4916aa11dcb50a8f5bec73620cfadb485709c114df1f0af55fc54c105040efb3f8374f7682d3f758fb946410d",
+          "sha256": "0606d9aded3c0a6b5f52915392eaef66c8f950da8928b1981e9f68366ad5bbec",
+          "sha1": "9b84e70ebd42a349139aa57cc89d36334bc8c12a",
+          "md5": "dfaff7bacd928ff0896f7f12218f4763"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-lua-1.20.4-0.1.5.jar",
+          "url": "numen-lua-1.20.4-0.1.5.jar",
+          "size": 282698,
+          "sha512": "6e588c22b154b69568d33059e459affcd1b561a4916aa11dcb50a8f5bec73620cfadb485709c114df1f0af55fc54c105040efb3f8374f7682d3f758fb946410d",
+          "sha256": "0606d9aded3c0a6b5f52915392eaef66c8f950da8928b1981e9f68366ad5bbec",
+          "sha1": "9b84e70ebd42a349139aa57cc89d36334bc8c12a",
+          "md5": "dfaff7bacd928ff0896f7f12218f4763"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-lua-1.20.4-0.1.5-sources.jar",
+          "url": "numen-lua-1.20.4-0.1.5-sources.jar",
+          "size": 184656,
+          "sha512": "5f468b659557cd62edb4318cdb03acfb3adae6fb16fc03ba33ba53bdeb31bf72ebdd63f8205db6689a4521af7837c1245a70dccae5adf89a8683aa1bb12839b1",
+          "sha256": "eeab2302f210ae4c93bdd385cb68ab4836529e689c9b2188cc63306ccc909e89",
+          "sha1": "d4f9faac4c901d8a9b189343977d148ca05fe5b5",
+          "md5": "ddd9225d4ed13f9ce625f0af470178a2"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-lua-1.20.4-0.1.5-javadoc.jar",
+          "url": "numen-lua-1.20.4-0.1.5-javadoc.jar",
+          "size": 561480,
+          "sha512": "4f9f1676bf51566991ddde7c422b839dd43b4d7fe276e36d4296aa0047ddb01746fd785829bf646ef6f78fb479f44eca5c54aed88ed637950dba2114a5fb0517",
+          "sha256": "6d7644ef7b22cdb57a01e038ae823e9ed084059de9aab396c396ffe75a70ccf8",
+          "sha1": "8696ac71c924e44f4a83923cad9197adac1a867b",
+          "md5": "ac5832c12a37945424b30669b084c5e8"
+        }
+      ]
+    }
+  ]
+}
