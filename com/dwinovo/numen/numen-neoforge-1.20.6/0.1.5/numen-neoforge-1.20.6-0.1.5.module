@@ -1,0 +1,113 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.dwinovo.numen",
+    "module": "numen-neoforge-1.20.6",
+    "version": "0.1.5",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.2.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "numen-neoforge-1.20.6-0.1.5.jar",
+          "url": "numen-neoforge-1.20.6-0.1.5.jar",
+          "size": 7503397,
+          "sha512": "34f2331f3ff1393a7a8ab001e57701d5ef443233313ae7199b91e477f966d6879a88ac8e0d614cbeb4882bbaf2b8cbd3865862a7b7c4a4b1018a8c291992e1b5",
+          "sha256": "d4b8980ef06b1f9409800b6e74afd6e5b726f47c9b6c0fb12e11fad72b8ddf2e",
+          "sha1": "fb5208b8b2c16ce0bcc79c215b67224eb61b87c1",
+          "md5": "42c89e23c0805a91b704dbeef0b5e72e"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-api-neoforge-1.20.6",
+          "version": {
+            "requires": "0.1.5"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "numen-neoforge-1.20.6-0.1.5.jar",
+          "url": "numen-neoforge-1.20.6-0.1.5.jar",
+          "size": 7503397,
+          "sha512": "34f2331f3ff1393a7a8ab001e57701d5ef443233313ae7199b91e477f966d6879a88ac8e0d614cbeb4882bbaf2b8cbd3865862a7b7c4a4b1018a8c291992e1b5",
+          "sha256": "d4b8980ef06b1f9409800b6e74afd6e5b726f47c9b6c0fb12e11fad72b8ddf2e",
+          "sha1": "fb5208b8b2c16ce0bcc79c215b67224eb61b87c1",
+          "md5": "42c89e23c0805a91b704dbeef0b5e72e"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-neoforge-1.20.6-0.1.5-sources.jar",
+          "url": "numen-neoforge-1.20.6-0.1.5-sources.jar",
+          "size": 1307382,
+          "sha512": "4fb93fcf928072d5708c177fa093d0194399635b02bd8653e864a327e7a63b23b7de9900b033ecb6dea32c7a014858e6737fdf7cd108091d4ff08ebe4f5a90cc",
+          "sha256": "c8add319447c87be726718453bad6864fd368727a6eea1970e71c0e89455c275",
+          "sha1": "7d99a82873095e2f1705a96cf1bc58146596e03d",
+          "md5": "a70ff44ab4b1d3c0e0e9a8d194f20328"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-neoforge-1.20.6-0.1.5-javadoc.jar",
+          "url": "numen-neoforge-1.20.6-0.1.5-javadoc.jar",
+          "size": 1753136,
+          "sha512": "69142725f7291fb9a91e7cc57362073c8c0da7848b6e9d11c7116103198fde95f73c6d0266e94a57d4ff708f99ed08fdf8c9b1235d22fa2bfde6cc1e0d198aaa",
+          "sha256": "5ba56cfefdf0499fc583242926d3f3d2e43efec4786b1f9dcbf4674b1f8c142d",
+          "sha1": "69b590853a20115d57aa2a82a33c737750167fb8",
+          "md5": "478a9eb068cbf374c968e94a73405bfa"
+        }
+      ]
+    }
+  ]
+}
