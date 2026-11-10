@@ -1,0 +1,116 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.dwinovo.numen",
+    "module": "numen-ui-26.3",
+    "version": "0.1.5",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.7.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "numen-ui-26.3-0.1.5.jar",
+          "url": "numen-ui-26.3-0.1.5.jar",
+          "size": 156153,
+          "sha512": "d5f5796bc0411d16d7152b2e08fa33ef3dabc69252b5d29a70c422cf3a78e3d7d6ab5550e3a05182c879eb9575518d798ee1edc199cd3b5c748feffb785b06a6",
+          "sha256": "cfbb89628aedfee7b5c11b61069e356fbb0e4e575dea1886752dce11b7f8c2aa",
+          "sha1": "388e0c14efdac3e2565b259e0a2edb74f3824c68",
+          "md5": "5c2c9e2e23f363e31e61e274a1bd0e5f"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.commonmark",
+          "module": "commonmark",
+          "version": {
+            "requires": "0.30.1"
+          }
+        },
+        {
+          "group": "org.commonmark",
+          "module": "commonmark-ext-gfm-strikethrough",
+          "version": {
+            "requires": "0.30.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "numen-ui-26.3-0.1.5.jar",
+          "url": "numen-ui-26.3-0.1.5.jar",
+          "size": 156153,
+          "sha512": "d5f5796bc0411d16d7152b2e08fa33ef3dabc69252b5d29a70c422cf3a78e3d7d6ab5550e3a05182c879eb9575518d798ee1edc199cd3b5c748feffb785b06a6",
+          "sha256": "cfbb89628aedfee7b5c11b61069e356fbb0e4e575dea1886752dce11b7f8c2aa",
+          "sha1": "388e0c14efdac3e2565b259e0a2edb74f3824c68",
+          "md5": "5c2c9e2e23f363e31e61e274a1bd0e5f"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-ui-26.3-0.1.5-sources.jar",
+          "url": "numen-ui-26.3-0.1.5-sources.jar",
+          "size": 100367,
+          "sha512": "95cb94c299413bf5ecf5a3090933bac9802e03a9136d293e29a86abc2246a84c2e9fe12149cf1b0a042a26f224b4949b7f9b37e0342732737c5ce7ed8035206e",
+          "sha256": "4fcdd684b2b47d94d56f1abc8b763c86591eaa0cbc9250432e9f39abd8747c41",
+          "sha1": "adc125371ecfacf2e6d8156c1e26d7604c03754c",
+          "md5": "347de351f0a26eb7bd32fdaa3ffe46d0"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-ui-26.3-0.1.5-javadoc.jar",
+          "url": "numen-ui-26.3-0.1.5-javadoc.jar",
+          "size": 4535381,
+          "sha512": "02138306358b95485f3f1ed923f8681f02992909ad5876936648f5c2b39857c98a79277cc02e674370c382cd7da71dd48187522e79f128a1326d4479209906e1",
+          "sha256": "5822db777c51f311b258e91e3fc081d4de34b2cd8b321b287abd3ebdd071abad",
+          "sha1": "3716d8c80223ef1b9ae1ae680ee454bc438b3147",
+          "md5": "a41fda4026c961e58a97a140b91afd44"
+        }
+      ]
+    }
+  ]
+}
