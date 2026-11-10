@@ -1,0 +1,113 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.dwinovo.numen",
+    "module": "numen-neoforge-1.21.4",
+    "version": "0.1.5",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.7.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "numen-neoforge-1.21.4-0.1.5.jar",
+          "url": "numen-neoforge-1.21.4-0.1.5.jar",
+          "size": 7524171,
+          "sha512": "f6a318ff0f0b39b89310886f13653401d9a2442fc8bb2b27a44036d702ec81e5414217594d6918b3ef3e7242528d638e704d3df451af3e0cbcde6897d9ae236a",
+          "sha256": "88a946319e368a9167443ff9e10e750ba68d98f7777746cd551efd7b6780056a",
+          "sha1": "4ce8a1072ffc96fe84b651cd70051b551894ee91",
+          "md5": "b3fc0ec6a383c58f78c1a01999487592"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-api-neoforge-1.21.4",
+          "version": {
+            "requires": "0.1.5"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "numen-neoforge-1.21.4-0.1.5.jar",
+          "url": "numen-neoforge-1.21.4-0.1.5.jar",
+          "size": 7524171,
+          "sha512": "f6a318ff0f0b39b89310886f13653401d9a2442fc8bb2b27a44036d702ec81e5414217594d6918b3ef3e7242528d638e704d3df451af3e0cbcde6897d9ae236a",
+          "sha256": "88a946319e368a9167443ff9e10e750ba68d98f7777746cd551efd7b6780056a",
+          "sha1": "4ce8a1072ffc96fe84b651cd70051b551894ee91",
+          "md5": "b3fc0ec6a383c58f78c1a01999487592"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-neoforge-1.21.4-0.1.5-sources.jar",
+          "url": "numen-neoforge-1.21.4-0.1.5-sources.jar",
+          "size": 1308369,
+          "sha512": "e065ce730a1cb2ab5f6d7102fc0c393689988910c821a6ed730c97baf653de29355c466962fa7b236e81a7c7f2677bc418109254684496ac3c8d24da89d2be2f",
+          "sha256": "3f41d96fa0ee2fca57df8dd9eb4aacc8d05adc4c56570385378af59debeecb93",
+          "sha1": "df78b5d4cb0e33af6f11f38008b3333d28cad8d0",
+          "md5": "eaf42b83bde6bd6ce8795e95149b44f1"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-neoforge-1.21.4-0.1.5-javadoc.jar",
+          "url": "numen-neoforge-1.21.4-0.1.5-javadoc.jar",
+          "size": 1753578,
+          "sha512": "de2c81c71d754a2158e26cc3a384fec862e9f15190030f61164be7744547a78e9c16d38b866c1e7f0019351746f46f88f59dad78e00539400f6783572df5ba40",
+          "sha256": "f3336518572a201365b20b9a2f800965cfa5f0dd2ca85c17d157576763575517",
+          "sha1": "8a166f66597daf9e9db11ddbba7ffda615988b46",
+          "md5": "3fa1b7ef91aa4262ee19cbba51eb3e70"
+        }
+      ]
+    }
+  ]
+}
