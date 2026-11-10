@@ -86,11 +86,11 @@
         {
           "name": "numen-api-neoforge-1.21.1-0.1.5.jar",
           "url": "numen-api-neoforge-1.21.1-0.1.5.jar",
-          "size": 6100546,
-          "sha512": "1cb91dfbcc3137615700a2d3aed9778b15a977cc5764fe840007c85cb3d51ec30269d76e9288d52dcc16df15ffd83817dddf2e090bfc90fd8124b122710de963",
-          "sha256": "40d3de6b3b2740111a2beb2f44ede711123c91ee5ccd94e2e764a1b1d062c3ee",
-          "sha1": "47a2727982891f99dac036b2f93563379620b0b7",
-          "md5": "b1d7edef7af87e230b6c66257aad7bdb"
+          "size": 6100545,
+          "sha512": "f2b8e9ad3dcf145d625f5477a8a7192b951ab733247af698590231edc54aaa78fd56c65c88b0db7a2690facbd31e89d6e68b764813f8599d679cabb9c80746a5",
+          "sha256": "c9f0b3f10ee67d4f1c6595eb612c3057a07d6bc0276dcdcabacc2f492d3b998c",
+          "sha1": "a5622c73ada386e790d18a1d49aa3c0fe573c641",
+          "md5": "6a99415c5ecad66c577225f5a56d1d62"
         }
       ]
     },
@@ -166,11 +166,11 @@
         {
           "name": "numen-api-neoforge-1.21.1-0.1.5.jar",
           "url": "numen-api-neoforge-1.21.1-0.1.5.jar",
-          "size": 6100546,
-          "sha512": "1cb91dfbcc3137615700a2d3aed9778b15a977cc5764fe840007c85cb3d51ec30269d76e9288d52dcc16df15ffd83817dddf2e090bfc90fd8124b122710de963",
-          "sha256": "40d3de6b3b2740111a2beb2f44ede711123c91ee5ccd94e2e764a1b1d062c3ee",
-          "sha1": "47a2727982891f99dac036b2f93563379620b0b7",
-          "md5": "b1d7edef7af87e230b6c66257aad7bdb"
+          "size": 6100545,
+          "sha512": "f2b8e9ad3dcf145d625f5477a8a7192b951ab733247af698590231edc54aaa78fd56c65c88b0db7a2690facbd31e89d6e68b764813f8599d679cabb9c80746a5",
+          "sha256": "c9f0b3f10ee67d4f1c6595eb612c3057a07d6bc0276dcdcabacc2f492d3b998c",
+          "sha1": "a5622c73ada386e790d18a1d49aa3c0fe573c641",
+          "md5": "6a99415c5ecad66c577225f5a56d1d62"
         }
       ]
     },
@@ -187,11 +187,11 @@
         {
           "name": "numen-api-neoforge-1.21.1-0.1.5-sources.jar",
           "url": "numen-api-neoforge-1.21.1-0.1.5-sources.jar",
-          "size": 2585947,
-          "sha512": "248322adec80415b605fb31a16101553f6b928e4f2e09271dd8ad049ff57ccdaf19e0271ac4891a212ffcc5755e616ad172e0f8cf8328e8b91704fde942f16b5",
-          "sha256": "5617e1a976b947a996b87f7eaa384b4cef9a414444f94843c39ace86593bc32d",
-          "sha1": "44405945a0c2c4ab38bcf300eef07b1d6e46d243",
-          "md5": "39c7fbb62c05ce6f728d56453bec0176"
+          "size": 2585946,
+          "sha512": "03e0e6dc38a5bd679e560a433a1fa5aca710c3cb7d40a4f7d30c20879d29ad02f1db6d747c394d0ecabff947b22637ec38828ec7b31d076bd8e4ba26b0d19787",
+          "sha256": "0fb8fd75c0b8fdecea196de90c067c81471c4fea1d2f12aef3037e128698839a",
+          "sha1": "80158d973d446e3ad3841bb5cf23b9d6a379c90a",
+          "md5": "b9a05a8a52bf9d4798c3d23a539ff599"
         }
       ]
     },
