@@ -1,0 +1,100 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.dwinovo.numen",
+    "module": "numen-permission-1.20.2",
+    "version": "0.1.5",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.7"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "numen-permission-1.20.2-0.1.5.jar",
+          "url": "numen-permission-1.20.2-0.1.5.jar",
+          "size": 37991,
+          "sha512": "e1c455b3d6468afb3669f3bcba73cc27affac4736aa59023c044d56b538524b5e77983f3aaab35e0625da486eabca0904c2022f3070d65255d994f3730be8aef",
+          "sha256": "8ebc954caa22850374e4628e8afede699e778bd1e54c7843086fe4147d9f4d74",
+          "sha1": "881746b02f79dab4e3a5453f2af2d8d38d441832",
+          "md5": "0aafeb1b9a929805baeb8e07ff4c6e52"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-permission-1.20.2-0.1.5.jar",
+          "url": "numen-permission-1.20.2-0.1.5.jar",
+          "size": 37991,
+          "sha512": "e1c455b3d6468afb3669f3bcba73cc27affac4736aa59023c044d56b538524b5e77983f3aaab35e0625da486eabca0904c2022f3070d65255d994f3730be8aef",
+          "sha256": "8ebc954caa22850374e4628e8afede699e778bd1e54c7843086fe4147d9f4d74",
+          "sha1": "881746b02f79dab4e3a5453f2af2d8d38d441832",
+          "md5": "0aafeb1b9a929805baeb8e07ff4c6e52"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-permission-1.20.2-0.1.5-sources.jar",
+          "url": "numen-permission-1.20.2-0.1.5-sources.jar",
+          "size": 17786,
+          "sha512": "356b7d5a1b0f771e68ddc88a855ff11979247a2141fe85ecdb565f9cb0c089e893e4b8a25450fb23fd58587e2c0dddfce6e437269b202d1f2c7c026225caeb2f",
+          "sha256": "a7b2cb987babb638df06a047c3974727efe0b29499627197f93d7e45aedca31e",
+          "sha1": "88868e3780cce4128600643169780fbbb6ba27fc",
+          "md5": "d71d37d740fd7bed4f2c5dd4232cea98"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-permission-1.20.2-0.1.5-javadoc.jar",
+          "url": "numen-permission-1.20.2-0.1.5-javadoc.jar",
+          "size": 152439,
+          "sha512": "efacf4d793401d8f00ce26a1af91fa8b28b2f235200e4be915d8932efdb3201c22c819d0c1bf8dc83ed1847005760b75558fa45e62ba0910ca055cef68b9d7e6",
+          "sha256": "f8850d0aebabd4270165f019025fc8780d39db29fc9c3ccaac71ecb5ee73da04",
+          "sha1": "da761f3d6505069312df3abbc52c67b5bce4efa1",
+          "md5": "c05938c9b04ecb88045aa42bc4bd95cf"
+        }
+      ]
+    }
+  ]
+}
