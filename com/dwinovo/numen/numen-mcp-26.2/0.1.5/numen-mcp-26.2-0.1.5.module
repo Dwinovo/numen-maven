@@ -1,0 +1,158 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.dwinovo.numen",
+    "module": "numen-mcp-26.2",
+    "version": "0.1.5",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.7.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-store-26.2",
+          "version": {
+            "requires": "0.1.5"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "2.0.17"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.14.0"
+          },
+          "excludes": [
+            {
+              "group": "com.google.errorprone",
+              "module": "*"
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "name": "numen-mcp-26.2-0.1.5.jar",
+          "url": "numen-mcp-26.2-0.1.5.jar",
+          "size": 208573,
+          "sha512": "d659ef9f63a40c17e1483c30ac73f5b1fa91598fb7564bea8dbda08a186ecf9fc318e21c85969d18822b75a2ac54de8682c7750bdcd07810757250f54ceafe03",
+          "sha256": "19d53c44a90ce28c48d8f74f12f84889b63b5aab41fffa72713b5df2b2c772e9",
+          "sha1": "1931126237b57befabee29633eff0b6a3e66eb30",
+          "md5": "d3069b725347c620960e642ec8f068a5"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-store-26.2",
+          "version": {
+            "requires": "0.1.5"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "2.0.17"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.14.0"
+          },
+          "excludes": [
+            {
+              "group": "com.google.errorprone",
+              "module": "*"
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "name": "numen-mcp-26.2-0.1.5.jar",
+          "url": "numen-mcp-26.2-0.1.5.jar",
+          "size": 208573,
+          "sha512": "d659ef9f63a40c17e1483c30ac73f5b1fa91598fb7564bea8dbda08a186ecf9fc318e21c85969d18822b75a2ac54de8682c7750bdcd07810757250f54ceafe03",
+          "sha256": "19d53c44a90ce28c48d8f74f12f84889b63b5aab41fffa72713b5df2b2c772e9",
+          "sha1": "1931126237b57befabee29633eff0b6a3e66eb30",
+          "md5": "d3069b725347c620960e642ec8f068a5"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-mcp-26.2-0.1.5-sources.jar",
+          "url": "numen-mcp-26.2-0.1.5-sources.jar",
+          "size": 103002,
+          "sha512": "1412582cfaf897e9b033725c5563d90e9993d55ccbd5cc4af19d48cd44863a94c6c982e39fbf695bb26bcb002bbd7e45f53daa18861802436eee6fd80e75a48e",
+          "sha256": "e26106736cb279972756e3c33acb9b55f33d05386b133cc76ae74b816ee35525",
+          "sha1": "43bb63ef1b9ba543b15e15920b7ba48bba38e95c",
+          "md5": "74f00897b9ad6391ad389920b1795aac"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-mcp-26.2-0.1.5-javadoc.jar",
+          "url": "numen-mcp-26.2-0.1.5-javadoc.jar",
+          "size": 4545506,
+          "sha512": "fab49071167219e7b2b08d8359c3bd6cdfbe70fd2871beb4dbd7b2df9fa45a4f5f171b86b115af23f37a549690ed7ab19095dabc5d6039b6815d55300b2f863b",
+          "sha256": "67e77a995c3aac02f2e70ebbcaea319636ba9eda47a78a23dc6eb4b30863313c",
+          "sha1": "fe41e3e5907af3861bad0a1d9661f9aca7234448",
+          "md5": "040547793f2a8ec448387add385fb981"
+        }
+      ]
+    }
+  ]
+}

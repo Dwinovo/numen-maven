@@ -1,0 +1,113 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.dwinovo.numen",
+    "module": "numen-neoforge-26.2",
+    "version": "0.1.5",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.7.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "numen-neoforge-26.2-0.1.5.jar",
+          "url": "numen-neoforge-26.2-0.1.5.jar",
+          "size": 7533106,
+          "sha512": "db0a7f03a367e50f5860c0ad89ec23272cc73f869cc067055f1535c3481b63edf4f482a56d98fc51f4464270b18ddc4b835fe8cafdb4b762bed44c2cac0c2628",
+          "sha256": "3e44fa234084967b845624dab6e7a074f3df2074b2ca10d13210861c8ee5dd29",
+          "sha1": "d73e2218a69d8252e5bbd1e925b06deee401e447",
+          "md5": "8ff5425062ed78255790715e8f7ffdab"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.dwinovo.numen",
+          "module": "numen-api-neoforge-26.2",
+          "version": {
+            "requires": "0.1.5"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "numen-neoforge-26.2-0.1.5.jar",
+          "url": "numen-neoforge-26.2-0.1.5.jar",
+          "size": 7533106,
+          "sha512": "db0a7f03a367e50f5860c0ad89ec23272cc73f869cc067055f1535c3481b63edf4f482a56d98fc51f4464270b18ddc4b835fe8cafdb4b762bed44c2cac0c2628",
+          "sha256": "3e44fa234084967b845624dab6e7a074f3df2074b2ca10d13210861c8ee5dd29",
+          "sha1": "d73e2218a69d8252e5bbd1e925b06deee401e447",
+          "md5": "8ff5425062ed78255790715e8f7ffdab"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-neoforge-26.2-0.1.5-sources.jar",
+          "url": "numen-neoforge-26.2-0.1.5-sources.jar",
+          "size": 1309727,
+          "sha512": "7f9b48cb5af731d9cd5372f2741ff2e041de1f343bc292a7d7d09ed6444e4b43b0bd87e50963d3bce5d3d3e69bd260101cacf8cd8d0e101975bb59801310d62e",
+          "sha256": "e8c9424a849bdc13ae1a9c38c72d73bee30ee86fbeeb9cc8aa1365c61814f26c",
+          "sha1": "f33255c15907c979f615d12aaa70d7021be161ef",
+          "md5": "4ac2e61b8cf0de6bcc6ce48ca30b1b0f"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "io.github.mcgradleconventions.loader": "neoforge",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "numen-neoforge-26.2-0.1.5-javadoc.jar",
+          "url": "numen-neoforge-26.2-0.1.5-javadoc.jar",
+          "size": 5890137,
+          "sha512": "b9c155b2e0daca35bd479a5259fe56fbd887729ea3c2524417027980046be16d6647338a91ab4ada841ae76ae440041e1f336aac7f3a6819d34cf65202215c60",
+          "sha256": "b0c62f32d57bccb2edf599206a4a04e3722b050644dea7abe6cb28674bdf32af",
+          "sha1": "1f54bd96ab061ad6da8551a1be92d1f8279e4d8e",
+          "md5": "acd0c76fa723c075ce384a6bfd2dc7e7"
+        }
+      ]
+    }
+  ]
+}
